@@ -1,11 +1,7 @@
-import { createGlobalStyle } from 'styled-components';
-import reset from './reset';
-import fonts from './fonts';
-import theme from './theme';
+import { createGlobalStyle, css } from 'styled-components';
 
 export default createGlobalStyle`
-    ${reset};
-    ${fonts};
+
     
     *,
     *::before,
@@ -27,11 +23,15 @@ export default createGlobalStyle`
     }
     body{
         line-height:1.5;
-        background-color:${theme.color.grayLight};
-        font-size:${theme.fontSizes.regular};
-        color:${theme.color.grayDark};
-        font-family:${theme.fonts.primary};
         font-weight:normal;
+        ${({ theme }) => {
+          return css`
+            background-color: ${theme.color.grayLight};
+            font-size: ${theme.fontSizes.regular};
+            color: ${theme.color.grayDark};
+            font-family: ${theme.fonts.primary};
+          `;
+        }};
     }
     a{
         text-decoration:none;

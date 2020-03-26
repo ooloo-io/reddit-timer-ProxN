@@ -6,8 +6,8 @@ export default {
     grayLight: '#ffffff'
   },
   fonts: {
-    primary: 'Montserrat',
-    secondary: 'Bitter'
+    primary: 'Montserrat, sans-serif',
+    secondary: 'Bitter, sans-serif'
   },
   fontSizes: {
     small: '14px',

@@ -1,5 +1,5 @@
 export default {
-  color: {
+  colors: {
     primary: '#fdb755',
     grayBase: '#93918f',
     grayDark: '#000000',

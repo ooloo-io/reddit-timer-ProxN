@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom';
 import Home from './pages/Home';
 import Search from './pages/Search';
-import Layout from './components/layout/layout';
+import Layout from './components/layout/Layout';
 
 function App() {
   return (

@@ -24,14 +24,12 @@ export default createGlobalStyle`
     body{
         line-height:1.5;
         font-weight:normal;
-        ${({ theme }) => {
-          return css`
-            background-color: ${theme.color.grayLight};
+        ${({ theme }) => css`
+            background-color: ${theme.colors.grayLight};
             font-size: ${theme.fontSizes.regular};
-            color: ${theme.color.grayDark};
+            color: ${theme.colors.grayDark};
             font-family: ${theme.fonts.primary};
-          `;
-        }};
+          `};
     }
     a{
         text-decoration:none;

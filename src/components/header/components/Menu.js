@@ -1,5 +1,5 @@
 import React from 'react';
-import { MenuItem, MenuLink, MenuList } from '../styles';
+import { MenuItem, MenuLink, MenuList } from './Menu.style';
 
 const Menu = () => {
   return (

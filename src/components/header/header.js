@@ -3,7 +3,7 @@ import Logo from './components/Logo';
 import { HeaderContainer, Nav } from './styles';
 import Menu from './components/Menu';
 
-const header = () => {
+const Header = () => {
   return (
     <HeaderContainer>
       <Nav>
@@ -14,4 +14,4 @@ const header = () => {
   );
 };
 
-export default header;
+export default Header;

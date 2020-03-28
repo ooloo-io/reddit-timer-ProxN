@@ -11,7 +11,6 @@ export const HeaderContainer = styled.header`
 export const Nav = styled.nav`
   width: 100%;
   padding: 0 80px;
-  margin: 0 auto;
   display: flex;
   justify-content: space-between;
 `;
@@ -20,4 +19,5 @@ export const LogoLink = styled(Link)`
   cursor: pointer;
   display: flex;
   align-items: center;
+  margin-top: -2px;
 `;

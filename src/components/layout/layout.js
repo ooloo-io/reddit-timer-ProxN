@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import GlobalStyles from '../../styles/globalStyles';
 import Header from '../header';
 
-const layout = ({ children }) => {
+const Layout = ({ children }) => {
   return (
     <div>
       <GlobalStyles />
@@ -14,7 +14,7 @@ const layout = ({ children }) => {
   );
 };
 
-layout.propTypes = {
+Layout.propTypes = {
   children: PropTypes.node.isRequired
 };
-export default layout;
+export default Layout;

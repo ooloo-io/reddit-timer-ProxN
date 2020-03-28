@@ -17,10 +17,8 @@ export const MenuItem = styled.li`
 export const MenuLink = styled(Link)`
   color: #636363;
   text-decoration: none;
-  ${({ theme }) => {
-    return css`
+  ${({ theme }) => css`
       font-family: ${theme.fonts.primary};
       font-size: ${theme.fontSizes.regular};
-    `;
-  }}
+    `}
 `;

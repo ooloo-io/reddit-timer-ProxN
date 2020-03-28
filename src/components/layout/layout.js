@@ -4,17 +4,15 @@ import PropTypes from 'prop-types';
 import GlobalStyles from '../../styles/globalStyles';
 import Header from '../header';
 
-const Layout = ({ children }) => {
-  return (
-    <div>
-      <GlobalStyles />
-      <Header />
-      {children}
-    </div>
-  );
-};
+const Layout = ({ children }) => (
+  <div>
+    <GlobalStyles />
+    <Header />
+    {children}
+  </div>
+);
 
 Layout.propTypes = {
-  children: PropTypes.node.isRequired
+  children: PropTypes.node.isRequired,
 };
 export default Layout;

@@ -1,10 +1,11 @@
 import React from 'react';
-import Logo from './components/Logo';
+import { ReactComponent as Logo } from './logo.svg';
 import {
   FooterContainer,
   FooterContent,
   FooterLink,
   FooterLeftLink,
+  LogoLink,
 } from './styles';
 
 const Footer = () => (
@@ -13,7 +14,9 @@ const Footer = () => (
       <FooterLeftLink href="https://ooloo.io" target="_blank">
         ooloo.io
       </FooterLeftLink>
-      <Logo />
+      <LogoLink to="/">
+        <Logo />
+      </LogoLink>
       <FooterLink to="/terms">Terms & Privacy</FooterLink>
     </FooterContent>
   </FooterContainer>

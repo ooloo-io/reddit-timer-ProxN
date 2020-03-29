@@ -4,6 +4,10 @@ export default {
     grayBase: '#93918f',
     grayDark: '#000000',
     grayLight: '#ffffff',
+    links: {
+      gray: '#636363',
+      blue: '#0087ff',
+    },
   },
   fonts: {
     primary: 'Montserrat, sans-serif',

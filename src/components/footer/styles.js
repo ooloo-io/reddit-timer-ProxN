@@ -9,25 +9,33 @@ export const FooterContainer = styled.footer`
 `;
 
 export const FooterContent = styled.div`
-  padding: 0 250px;
+  padding: 0 251px;
   width: 100%;
   display: flex;
   justify-content: space-between;
-`;
-const LinkStyles = css`
-  color: #636363;
-  display: flex;
   align-items: center;
+`;
+
+const LinkStyles = css`
+  text-decoration: none;
   ${({ theme }) => css`
     font-family: ${theme.fonts.primary};
     font-size: ${theme.fontSizes.small};
+    color: ${theme.colors.links.gray};
   `}
+  flex:1;
 `;
 
 export const FooterLink = styled(Link)`
   ${LinkStyles};
+  text-align: right;
 `;
 
 export const FooterLeftLink = styled.a`
   ${LinkStyles};
+`;
+
+export const LogoLink = styled(Link)`
+  height: 36px;
+  width: 36px;
 `;

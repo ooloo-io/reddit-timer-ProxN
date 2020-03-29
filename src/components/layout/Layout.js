@@ -4,14 +4,15 @@ import PropTypes from 'prop-types';
 import GlobalStyles from '../../styles/globalStyles';
 import Header from '../header';
 import Footer from '../footer';
+import { LayoutContainer, LayoutWrapper } from './styles';
 
 const Layout = ({ children }) => (
-  <div>
+  <LayoutContainer>
     <GlobalStyles />
     <Header />
-    {children}
+    <LayoutWrapper>{children}</LayoutWrapper>
     <Footer />
-  </div>
+  </LayoutContainer>
 );
 
 Layout.propTypes = {

@@ -13,7 +13,7 @@ export default createGlobalStyle`
 
     html{
         box-sizing:border-box;
-        min-height:100%;
+        height:100%;
         width:100%;
     }
     #root,
@@ -25,11 +25,11 @@ export default createGlobalStyle`
         line-height:1.5;
         font-weight:normal;
         ${({ theme }) => css`
-            background-color: ${theme.colors.grayLight};
-            font-size: ${theme.fontSizes.regular};
-            color: ${theme.colors.grayDark};
-            font-family: ${theme.fonts.primary};
-          `};
+          background-color: ${theme.colors.grayLight};
+          font-size: ${theme.fontSizes.regular};
+          color: ${theme.colors.grayDark};
+          font-family: ${theme.fonts.primary};
+        `};
     }
     a{
         text-decoration:none;

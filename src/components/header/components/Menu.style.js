@@ -15,10 +15,10 @@ export const MenuItem = styled.li`
 `;
 
 export const MenuLink = styled(Link)`
-  color: #636363;
   text-decoration: none;
   ${({ theme }) => css`
-      font-family: ${theme.fonts.primary};
-      font-size: ${theme.fontSizes.regular};
-    `}
+    font-family: ${theme.fonts.primary};
+    font-size: ${theme.fontSizes.regular};
+    color: ${theme.colors.links.gray};
+  `}
 `;

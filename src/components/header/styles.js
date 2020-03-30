@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
 export const HeaderContainer = styled.header`
-  height: 100px;
+  height: ${({ theme }) => theme.headerHeight};
   width: 100%;
   display: flex;
   align-items: center;

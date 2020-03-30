@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export const FooterContainer = styled.footer`
   display: flex;
   align-items: center;
-  height: 100px;
+  height: ${({ theme }) => theme.headerHeight};
   width: 100%;
 `;
 

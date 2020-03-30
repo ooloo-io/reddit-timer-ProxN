@@ -6,17 +6,19 @@ export default {
     grayLight: '#ffffff',
     links: {
       gray: '#636363',
-      blue: '#0087ff',
-    },
+      blue: '#0087ff'
+    }
   },
   fonts: {
     primary: 'Montserrat, sans-serif',
-    secondary: 'Bitter, sans-serif',
+    secondary: 'Bitter, sans-serif'
   },
   fontSizes: {
     small: '14px',
     regular: '16px',
     large: '24px',
-    xlarge: '38px',
+    xlarge: '38px'
   },
+  headerHeight: '100px',
+  footerHeight: '100px'
 };

@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
 
 export const LayoutContainer = styled.article`
   height: 100%;
@@ -6,5 +6,7 @@ export const LayoutContainer = styled.article`
 `;
 
 export const LayoutWrapper = styled.div`
-  min-height: calc(100% - 200px);
+  ${({ theme }) => css`
+    min-height: calc(100% - ${theme.headerHeight} - ${theme.footerHeight});
+  `}
 `;

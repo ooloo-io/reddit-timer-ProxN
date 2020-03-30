@@ -22,7 +22,7 @@ export default createGlobalStyle`
         height:100%;
     }
     body{
-        line-height:1.5;
+        line-height:normal;
         font-weight:normal;
         ${({ theme }) => css`
           background-color: ${theme.colors.grayLight};

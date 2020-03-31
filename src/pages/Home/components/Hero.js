@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Table from '../table.png';
 import {
   HeroContainer,
@@ -7,7 +8,7 @@ import {
   SubReddit,
   HeatMapLink,
 } from './Hero.styles';
-import Button from '../../../components/button/Button';
+import Button from '../../../components/button';
 
 const Hero = () => (
   <HeroContainer>
@@ -15,13 +16,11 @@ const Hero = () => (
     <SubTitle>
       Great timing, great results! Find the best time to post on your subreddit.
     </SubTitle>
-    <Button
-      size="large"
-      href="/search?q=javascript"
-      label="Show me the best time"
-    />
+    <Button to="/search?q=javascript" as={Link}>
+      Show me the best time
+    </Button>
     <SubReddit>r/javascript</SubReddit>
-    <HeatMapLink to='/search?q="javascript'>
+    <HeatMapLink to="/search?q=javascript">
       <img src={Table} alt="results" />
     </HeatMapLink>
   </HeroContainer>

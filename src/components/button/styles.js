@@ -1,12 +1,6 @@
 import styled, { css } from 'styled-components';
-import { Link } from 'react-router-dom';
 
-const sizes = {
-  small: 'width:92px;height:36px;',
-  large: 'width:217px;height:36px;',
-};
-
-const defaultStyle = css`
+export default styled.button`
   cursor: pointer;
   border: none;
   outline: none;
@@ -22,15 +16,6 @@ const defaultStyle = css`
     font-family: ${theme.fonts.primary};
     font-size: ${theme.fontSizes.small};
   `}
-`;
-
-export const StyledButton = styled.button`
-  text-transform: uppercase;
-  ${(props) => sizes[props.size]};
-  ${defaultStyle};
-`;
-
-export const StyledLink = styled(Link)`
-  ${defaultStyle};
-  ${(props) => sizes[props.size]};
+  padding:14px 15px 13px 15px;
+  font-weight: 500;
 `;

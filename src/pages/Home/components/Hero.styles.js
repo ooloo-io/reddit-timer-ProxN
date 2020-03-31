@@ -1,4 +1,4 @@
-import styled, { css } from 'styled-components';
+import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
 export const HeroContainer = styled.section`
@@ -8,36 +8,20 @@ export const HeroContainer = styled.section`
 `;
 
 export const Title = styled.h1`
-  ${({ theme }) => css`
-    font-family: ${theme.fonts.secondary};
-    color: ${theme.colors.grayDark};
-    font-size: ${theme.fontSizes.xlarge};
-  `};
-  font-weight: normal;
+  font-size: ${({ theme }) => theme.fontSizes.xlarge};
   margin: 0;
 `;
 
-const TextStyle = css`
-  ${({ theme }) => css`
-    font-family: ${theme.fonts.primary};
-    font-size: ${theme.fontSizes.regular};
-    color: ${theme.colors.grayBase};
-  `};
-`;
-
 export const SubTitle = styled.h3`
-  ${TextStyle};
-  font-weight: normal;
   margin-top: 20px;
-  margin-bottom: 46px;
+  margin-bottom: 45px;
 `;
 
 export const SubReddit = styled.p`
   font-weight: 500;
-  ${TextStyle};
-  margin-top: 46px;
+  margin-top: 47px;
 `;
 
 export const HeatMapLink = styled(Link)`
-  margin-top: 37px;
+  margin-top: 36px;
 `;

@@ -33,7 +33,7 @@ export default createGlobalStyle`
         text-decoration:none;
         color:currentColor;
     }
-    h1,h2,h3,h4,h5,h6,p{
+    h1,h2,h3,h4,h5,h6,p,li{
         font-size: ${({ theme }) => theme.fontSizes.regular};
         font-weight:normal;
     }
@@ -43,7 +43,7 @@ export default createGlobalStyle`
           color: ${theme.colors.grayDark};
         `};
     }
-    h3,p{
+    h3,p,li{
         ${({ theme }) => css`
           font-family: ${theme.fonts.primary};
           color: ${theme.colors.grayBase};

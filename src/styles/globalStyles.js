@@ -1,8 +1,6 @@
 import { createGlobalStyle, css } from 'styled-components';
 
 export default createGlobalStyle`
-
-    
     *,
     *::before,
     *::after{
@@ -22,17 +20,34 @@ export default createGlobalStyle`
         height:100%;
     }
     body{
-        line-height:1.5;
+        line-height:normal;
         font-weight:normal;
         ${({ theme }) => css`
           background-color: ${theme.colors.grayLight};
           font-size: ${theme.fontSizes.regular};
           color: ${theme.colors.grayDark};
-          font-family: ${theme.fonts.primary};
+          font-family: ${theme.fonts.secondary};
         `};
     }
     a{
         text-decoration:none;
         color:currentColor;
     }
+    h1,h2,h3,h4,h5,h6,p{
+        font-size: ${({ theme }) => theme.fontSizes.regular};
+        font-weight:normal;
+    }
+    h1,h2{
+        ${({ theme }) => css`
+          font-family: ${theme.fonts.secondary};
+          color: ${theme.colors.grayDark};
+        `};
+    }
+    h3,p{
+        ${({ theme }) => css`
+          font-family: ${theme.fonts.primary};
+          color: ${theme.colors.grayBase};
+        `};
+    }
+
 `;

@@ -1,15 +1,13 @@
 import React from 'react';
 import { HomeContainer, HomeContent } from './styles';
 import Hero from './components/Hero';
-import HowItWork from './components/HowItWork';
-import About from './components/About';
+import InfoSection from './components/InfoSection';
 
 const HomePage = () => (
   <HomeContainer>
     <HomeContent>
       <Hero />
-      <HowItWork />
-      <About />
+      <InfoSection />
     </HomeContent>
   </HomeContainer>
 );

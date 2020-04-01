@@ -13,6 +13,8 @@ export default createGlobalStyle`
         box-sizing:border-box;
         height:100%;
         width:100%;
+        scroll-behavior: smooth;
+
     }
     #root,
     body{
@@ -25,15 +27,15 @@ export default createGlobalStyle`
         ${({ theme }) => css`
           background-color: ${theme.colors.grayLight};
           font-size: ${theme.fontSizes.regular};
-          color: ${theme.colors.grayDark};
-          font-family: ${theme.fonts.secondary};
+          color: ${theme.colors.grayBase};
+          font-family: ${theme.fonts.primary};
         `};
     }
     a{
         text-decoration:none;
         color:currentColor;
     }
-    h1,h2,h3,h4,h5,h6,p,li{
+    h1,h2,h3,h4,h5,h6{
         font-size: ${({ theme }) => theme.fontSizes.regular};
         font-weight:normal;
     }
@@ -43,7 +45,7 @@ export default createGlobalStyle`
           color: ${theme.colors.grayDark};
         `};
     }
-    h3,p,li{
+    h3{
         ${({ theme }) => css`
           font-family: ${theme.fonts.primary};
           color: ${theme.colors.grayBase};

@@ -7,10 +7,14 @@ const Menu = () => (
       <MenuLink to="/search">Search</MenuLink>
     </MenuItem>
     <MenuItem>
-      <MenuLink>How it works</MenuLink>
+      <MenuLink as="a" href="#how-it-works">
+        How it works
+      </MenuLink>
     </MenuItem>
     <MenuItem>
-      <MenuLink>About</MenuLink>
+      <MenuLink as="a" href="#about">
+        About
+      </MenuLink>
     </MenuItem>
   </MenuList>
 );

@@ -22,10 +22,9 @@ export const ListItem = styled.li`
 export const Text = styled.p`
   margin-top: 15px;
   line-height: 27px;
+  letter-spacing: 0.03px;
 `;
 
 export const TextLink = styled.a`
-  text-decoration: none;
-  cursor: pointer;
   color: ${({ theme }) => theme.colors.links.blue};
 `;

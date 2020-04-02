@@ -1,7 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Table from '../table.png';
-import { HeroContainer, SubTitle, SubReddit, HeatMapLink } from './Hero.styles';
+import {
+  HeroContainer, SubTitle, SubReddit, HeatMapLink,
+} from './Hero.styles';
 import Button from '../../../components/button';
 
 const Hero = () => (

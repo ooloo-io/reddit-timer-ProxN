@@ -1,14 +1,16 @@
 import React, { useState } from 'react';
 import { useHistory, useParams } from 'react-router-dom';
 import Button from '../../../components/button';
-import { FormContainer, InputGroup, Prefixed, Input } from './Form.styles';
+import {
+  FormContainer, InputGroup, Prefixed, Input,
+} from './Form.styles';
 
 const Form = () => {
   const { push } = useHistory();
   const { subreddit } = useParams();
   const [query, setQuery] = useState(subreddit);
 
-  const handleSubmit = e => {
+  const handleSubmit = (e) => {
     e.preventDefault();
     push(`/search/${query}`);
   };

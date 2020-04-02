@@ -38,6 +38,10 @@ export default createGlobalStyle`
     h1,h2,h3,h4,h5,h6{
         font-size: ${({ theme }) => theme.fontSizes.regular};
         font-weight:normal;
+        margin:0;
+    }
+    h1{
+        font-size: ${({ theme }) => theme.fontSizes.xlarge};
     }
     h1,h2{
         ${({ theme }) => css`

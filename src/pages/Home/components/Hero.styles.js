@@ -7,11 +7,6 @@ export const HeroContainer = styled.section`
   align-items: center;
 `;
 
-export const Title = styled.h1`
-  font-size: ${({ theme }) => theme.fontSizes.xlarge};
-  margin: 0;
-`;
-
 export const SubTitle = styled.h3`
   margin-top: 20px;
   margin-bottom: 45px;

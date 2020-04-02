@@ -15,7 +15,7 @@ function App() {
       <Layout>
         <Switch>
           <Route path="/" component={Home} exact />
-          <Route path="/search" component={Search} exact />
+          <Route path="/search/:subreddit" component={Search} exact />
           <Redirect to="/" />
         </Switch>
       </Layout>

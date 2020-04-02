@@ -8,6 +8,8 @@ export default {
       gray: '#636363',
       blue: '#0087ff',
     },
+    border: '#e6e6e6',
+    label: '#9e9e9e',
   },
   fonts: {
     primary: 'Montserrat, sans-serif',
@@ -16,6 +18,7 @@ export default {
   fontSizes: {
     small: '14px',
     regular: '16px',
+    medium: '18px',
     large: '24px',
     xlarge: '38px',
   },

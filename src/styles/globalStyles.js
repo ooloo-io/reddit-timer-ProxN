@@ -40,6 +40,9 @@ export default createGlobalStyle`
         font-weight:normal;
         margin:0;
     }
+    h1{
+        font-size: ${({ theme }) => theme.fontSizes.xlarge};
+    }
     h1,h2{
         ${({ theme }) => css`
           font-family: ${theme.fonts.secondary};

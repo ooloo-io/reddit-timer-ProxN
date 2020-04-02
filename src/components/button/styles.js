@@ -16,6 +16,7 @@ export default styled.button`
     font-family: ${theme.fonts.primary};
     font-size: ${theme.fontSizes.small};
   `}
-  padding:14px 15px 13px 15px;
+  padding:0 16px;
+  height: 36px;
   font-weight: 500;
 `;

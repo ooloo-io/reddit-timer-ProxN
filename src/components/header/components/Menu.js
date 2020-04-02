@@ -4,7 +4,7 @@ import { MenuItem, MenuLink, MenuList } from './Menu.style';
 const Menu = () => (
   <MenuList>
     <MenuItem>
-      <MenuLink to="/search">Search</MenuLink>
+      <MenuLink to="/search?q=javascript">Search</MenuLink>
     </MenuItem>
     <MenuItem>
       <MenuLink as="a" href="#how-it-works">

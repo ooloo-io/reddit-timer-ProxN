@@ -10,12 +10,14 @@ import {
 } from './Form.styles';
 
 const Form = () => {
-  const [query, setQuery] = useState('javascript');
-  const history = useHistory();
+  const { location, push } = useHistory();
+
+  const ParseQuery = (queryString) => queryString.split('=')[1];
+  const [query, setQuery] = useState(ParseQuery(location.search));
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    history.push(`/search?q=${query}`);
+    push(`/search?q=${query}`);
   };
 
   const handleChange = (e) => {

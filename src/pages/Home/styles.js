@@ -9,4 +9,9 @@ export const HomeContainer = styled.main`
 
 export const HomeContent = styled.div`
   padding: 27px 0 99px 0;
+  width: 100%;
+`;
+
+export const Heading = styled.h2`
+  font-size: ${({ theme }) => theme.fontSizes.large};
 `;

@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import { useHistory, useParams } from 'react-router-dom';
 import Button from '../../../components/button';
@@ -12,6 +12,15 @@ const Form = ({ loadData }) => {
   const { subreddit } = useParams();
   const [query, setQuery] = useState(subreddit);
   const [loading, setLoading] = useState(false);
+
+  useEffect(() => {
+    const onLoad = async () => {
+      setLoading(true);
+      await loadData(query);
+      setLoading(false);
+    };
+    onLoad();
+  }, []);
 
   const handleSubmit = async (e) => {
     e.preventDefault();

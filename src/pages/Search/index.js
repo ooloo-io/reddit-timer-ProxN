@@ -16,6 +16,7 @@ const SearchPage = () => {
     const URL = `${config.BASE_URL}search/submission/${query}`;
     await axios.get(URL);
   };
+
   return (
     <SearchContainer>
       <Form loadData={loadData} />

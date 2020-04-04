@@ -18,14 +18,16 @@ const Form = () => {
   const handleChange = ({ target }) => setQuery(target.value);
 
   return (
-    <FormContainer onSubmit={handleSubmit}>
-      <h1>Find the best time for a subreddit</h1>
-      <InputGroup>
-        <Prefixed>r /</Prefixed>
-        <Input onChange={handleChange} value={query} />
-        <Button>Search</Button>
-      </InputGroup>
-    </FormContainer>
+    <>
+      <FormContainer onSubmit={handleSubmit}>
+        <h1>Find the best time for a subreddit</h1>
+        <InputGroup>
+          <Prefixed>r /</Prefixed>
+          <Input onChange={handleChange} value={query} />
+          <Button>Search</Button>
+        </InputGroup>
+      </FormContainer>
+    </>
   );
 };
 

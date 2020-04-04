@@ -2,6 +2,9 @@ import styled, { css } from 'styled-components';
 
 export const FormContainer = styled.form`
   margin-top: 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 `;
 
 export const InputGroup = styled.div`

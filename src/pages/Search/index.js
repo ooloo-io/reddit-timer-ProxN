@@ -12,7 +12,11 @@ const SearchPage = () => {
   useEffect(() => {
     setLoading(true);
     const onLoad = async () => {
-      await loadData(subreddit);
+      try {
+        await loadData(subreddit);
+      } catch (error) {
+        console.log(error);
+      }
       setLoading(false);
     };
     onLoad();

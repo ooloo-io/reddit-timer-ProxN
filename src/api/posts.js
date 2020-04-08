@@ -1,6 +1,7 @@
 import axios from 'axios';
 import dayjs from 'dayjs';
 import config from '../constants/config';
+import convertData from '../utils/convertData';
 
 export default async (subreddit) => {
   try {
@@ -11,7 +12,9 @@ export default async (subreddit) => {
     const query = `?subreddit=${subreddit}&size=${size}&sort=desc&sort_type=score&after=${date}`;
     const URL = `${config.BASE_URL}search/submission/${query}`;
     const res = await axios.get(URL);
-    return res.data;
+
+    const convertedData = convertData(res.data.data);
+    return convertedData;
   } catch (error) {
     return error;
   }

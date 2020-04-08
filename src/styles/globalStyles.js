@@ -55,5 +55,9 @@ export default createGlobalStyle`
           color: ${theme.colors.grayBase};
         `};
     }
+    main{
+        padding: 27px 0 99px 0;
+        width: 100%;
+    }
 
 `;

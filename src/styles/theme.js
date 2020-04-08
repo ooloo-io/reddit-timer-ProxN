@@ -3,7 +3,13 @@ export default {
     primary: '#fdb755',
     grayBase: '#93918f',
     grayDark: '#000000',
+    grayDark1: '#1e2537',
     grayLight: '#ffffff',
+    darkBlue: '#1e2537',
+    gray0: '#787878',
+    gray1: '#e9e9e9',
+    gray2: '#fefefe',
+    gray3: '#f3f3f3',
     links: {
       gray: '#636363',
       blue: '#0087ff',

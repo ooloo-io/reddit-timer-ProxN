@@ -29,7 +29,7 @@ const SearchPage = () => {
       <SearchContainer>
         <Form />
         {loading && <Loader />}
-        {Object.entries(posts).length > 0 && <Heatmap posts={posts} />}
+        {posts.length > 0 && <Heatmap posts={posts} />}
       </SearchContainer>
     </main>
   );

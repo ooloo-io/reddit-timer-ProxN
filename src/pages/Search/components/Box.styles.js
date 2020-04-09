@@ -1,11 +1,12 @@
 import styled from 'styled-components';
+import getColor from '../../../utils/getColor';
 
 export default styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: 700;
-  background: ${(props) => props.color};
+  background: ${(props) => getColor(props.numTotalPosts)};
   color: #fff;
   line-height: 9px;
   font-size: 14px;

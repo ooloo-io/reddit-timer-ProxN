@@ -15,9 +15,9 @@ import {
 import Box from './Box';
 
 const Heatmap = ({ posts }) => {
-  const rows = Object.keys(posts).map((el) => {
-    const columns = Object.keys(posts[el]).map((time) => (
-      <Box totalPosts={posts[el][time].length} />
+  const rows = posts.map((el) => {
+    const columns = el.map((totalPosts) => (
+      <Box numTotalPosts={totalPosts.length} />
     ));
     return <BoxRow key={el}>{columns}</BoxRow>;
   });

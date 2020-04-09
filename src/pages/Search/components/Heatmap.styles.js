@@ -1,16 +1,20 @@
 import styled, { css } from 'styled-components';
 
 export const HeatmapContainer = styled.section`
-  width: 100%;
-  padding: 60px 163px 0 163px;
+  width: 1200px;
+  /* padding: 60px 163px 0 163px; */
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 0 auto;
+  @media (max-width: 48em) {
+    overflow-y: scroll;
+  }
 `;
 
 export const Grid = styled.div`
   display: grid;
-  grid-template-columns: 154px minmax(auto, 960px);
+  grid-template-columns: 154px 960px;
   grid-template-rows: 52px auto;
 `;
 
@@ -49,8 +53,7 @@ export const HourItem = styled.div`
   width: 80px;
   padding: 17px 0;
   font-weight: 500;
-  display: flex;
-  justify-content: center;
+  text-align: center;
   ${({ theme }) => css`
     font-size: ${theme.fontSizes.small};
     color: ${theme.colors.gray0};

@@ -10,6 +10,7 @@ export default {
     gray1: '#e9e9e9',
     gray2: '#fefefe',
     gray3: '#f3f3f3',
+    red: '#e74c3c',
     links: {
       gray: '#636363',
       blue: '#0087ff',

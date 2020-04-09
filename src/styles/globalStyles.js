@@ -16,11 +16,13 @@ export default createGlobalStyle`
         scroll-behavior: smooth;
 
     }
+
     #root,
     body{
         width:100%;
         height:100%;
     }
+
     body{
         line-height:normal;
         font-weight:normal;
@@ -31,10 +33,12 @@ export default createGlobalStyle`
           font-family: ${theme.fonts.primary};
         `};
     }
+
     a{
         text-decoration:none;
         color:currentColor;
     }
+
     h1,h2,h3,h4,h5,h6{
         font-size: ${({ theme }) => theme.fontSizes.regular};
         font-weight:normal;
@@ -43,18 +47,21 @@ export default createGlobalStyle`
     h1{
         font-size: ${({ theme }) => theme.fontSizes.xlarge};
     }
+
     h1,h2{
         ${({ theme }) => css`
           font-family: ${theme.fonts.secondary};
           color: ${theme.colors.grayDark};
         `};
     }
+
     h3{
         ${({ theme }) => css`
           font-family: ${theme.fonts.primary};
           color: ${theme.colors.grayBase};
         `};
     }
+    
     main{
         padding: 27px 0 99px 0;
         width: 100%;

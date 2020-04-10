@@ -1,23 +1,32 @@
-import React, { useState } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 import StyledBox from './Box.styles';
 
-const Box = ({ numTotalPosts }) => {
-  const [focused, setFocused] = useState(false);
-  const handleFocus = () => setFocused(!focused);
+const Box = ({
+  index, handleActive, selected, posts, setPosts,
+}) => {
+  const handleClick = () => {
+    handleActive(index);
+    setPosts(posts);
+  };
+
   return (
     <StyledBox
-      focused={focused}
-      onClick={handleFocus}
-      numTotalPosts={numTotalPosts}
+      focused={selected}
+      onClick={handleClick}
+      numTotalPosts={posts.length}
     >
-      {numTotalPosts}
+      {posts.length}
     </StyledBox>
   );
 };
 
 Box.propTypes = {
-  numTotalPosts: PropTypes.number.isRequired,
+  posts: PropTypes.arrayOf(PropTypes.object).isRequired,
+  index: PropTypes.string.isRequired,
+  selected: PropTypes.bool.isRequired,
+  handleActive: PropTypes.func.isRequired,
+  setPosts: PropTypes.func.isRequired,
 };
 
 export default Box;

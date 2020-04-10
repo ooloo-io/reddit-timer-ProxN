@@ -48,6 +48,10 @@ export default createGlobalStyle`
         font-size: ${({ theme }) => theme.fontSizes.xlarge};
     }
 
+    h2{
+        font-size:${({ theme }) => theme.fontSizes.large};
+    }
+
     h1,h2{
         ${({ theme }) => css`
           font-family: ${theme.fonts.secondary};
@@ -65,6 +69,15 @@ export default createGlobalStyle`
     main{
         padding: 27px 0 99px 0;
         width: 100%;
+    }
+
+    table, th, td{
+      border: 1px solid ${({ theme }) => theme.colors.gray4}; 
+      border-collapse: collapse;
+    }
+
+    th,td{
+        padding:9px 12px;
     }
 
 `;

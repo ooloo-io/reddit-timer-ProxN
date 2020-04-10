@@ -1,5 +1,6 @@
 export default {
   BASE_URL: 'https://api.pushshift.io/reddit/',
+  REDDIT_USER: 'https://www.reddit.com/user/',
   days: [
     'sunday',
     'monday',

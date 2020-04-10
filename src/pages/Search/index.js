@@ -3,19 +3,25 @@ import { useParams } from 'react-router-dom';
 import loadData from '../../api/posts';
 import Loader from '../../components/loader';
 import Form from './components/Form';
-import SearchContainer from './styles';
+import Heatmap from './components/Heatmap';
+import SearchContainer, { ErrorText } from './styles';
 
 const SearchPage = () => {
   const [loading, setLoading] = useState(false);
+  const [posts, setPosts] = useState([]);
+  const [error, setError] = useState('');
   const { subreddit } = useParams();
-
   useEffect(() => {
     setLoading(true);
+    setPosts([]);
+    setError('');
     const onLoad = async () => {
       try {
-        await loadData(subreddit);
-      } catch (error) {
-        console.log(error);
+        const res = await loadData(subreddit);
+        setPosts(res);
+        setError('');
+      } catch (err) {
+        setError(err.message);
       }
       setLoading(false);
     };
@@ -23,10 +29,14 @@ const SearchPage = () => {
   }, [subreddit]);
 
   return (
-    <SearchContainer>
-      <Form />
-      {loading && <Loader />}
-    </SearchContainer>
+    <main>
+      <SearchContainer>
+        <Form />
+        {loading && <Loader />}
+        {error && <ErrorText>{error}</ErrorText>}
+        {posts.length > 0 && <Heatmap posts={posts} />}
+      </SearchContainer>
+    </main>
   );
 };
 

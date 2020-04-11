@@ -18,23 +18,19 @@ import {
 
 const Heatmap = ({ posts }) => {
   const [selected, setSelected] = useState('');
-  const [timePosts, setTimePosts] = useState([]);
+  const { day, hour } = selected;
 
   const rows = posts.map((el, elIndex) => {
-    const columns = el.map((totalPosts, i) => {
-      const { day, hour } = selected;
-      return (
-        <Box
-          // eslint-disable-next-line react/no-array-index-key
-          key={`${elIndex}-${i}`}
-          index={{ day: elIndex, hour: i }}
-          selected={day === elIndex && hour === i}
-          setSelected={setSelected}
-          setTimePosts={setTimePosts}
-          posts={totalPosts}
-        />
-      );
-    });
+    const columns = el.map((totalPosts, i) => (
+      <Box
+        // eslint-disable-next-line react/no-array-index-key
+        key={`${elIndex}-${i}`}
+        index={{ day: elIndex, hour: i }}
+        selected={day === elIndex && hour === i}
+        setSelected={setSelected}
+        posts={posts[elIndex][i]}
+      />
+    ));
     // eslint-disable-next-line react/no-array-index-key
     return <BoxRow key={elIndex}>{columns}</BoxRow>;
   });
@@ -44,13 +40,13 @@ const Heatmap = ({ posts }) => {
       <HeatmapContainer>
         <Grid>
           <HoursList>
-            {config.hours.map((hour) => (
-              <HourItem key={hour}>{hour}</HourItem>
+            {config.hours.map((h) => (
+              <HourItem key={h}>{h}</HourItem>
             ))}
           </HoursList>
           <DaysList>
-            {config.days.map((day) => (
-              <DayItem key={day}>{day}</DayItem>
+            {config.days.map((d) => (
+              <DayItem key={d}>{d}</DayItem>
             ))}
           </DaysList>
           <BoxesContainer>{rows}</BoxesContainer>
@@ -60,7 +56,9 @@ const Heatmap = ({ posts }) => {
           <span>{Intl.DateTimeFormat().resolvedOptions().timeZone}</span>
         </TimeZone>
       </HeatmapContainer>
-      {timePosts.length > 0 && <Table posts={timePosts} />}
+      {posts[day] && posts[day][hour].length > 0 && (
+        <Table posts={posts[day][hour]} />
+      )}
     </>
   );
 };

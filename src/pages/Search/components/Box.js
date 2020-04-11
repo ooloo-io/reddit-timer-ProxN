@@ -3,11 +3,10 @@ import PropTypes from 'prop-types';
 import StyledBox from './Box.styles';
 
 const Box = ({
-  index, setSelected, selected, posts, setTimePosts,
+  index, setSelected, selected, posts,
 }) => {
   const handleClick = () => {
     setSelected(index);
-    setTimePosts(posts);
   };
 
   return (
@@ -26,7 +25,6 @@ Box.propTypes = {
   index: PropTypes.string.isRequired,
   selected: PropTypes.bool.isRequired,
   setSelected: PropTypes.func.isRequired,
-  setTimePosts: PropTypes.func.isRequired,
 };
 
 export default Box;

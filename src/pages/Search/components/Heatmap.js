@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
-import uuid from 'uuid/v4';
 import Table from './Table';
 import Box from './Box';
 
@@ -21,26 +20,23 @@ const Heatmap = ({ posts }) => {
   const [selected, setSelected] = useState('');
   const [timePosts, setTimePosts] = useState([]);
 
-  const handleActive = (key) => setSelected(key);
-
-  const setPosts = (selectedPosts) => setTimePosts(selectedPosts);
-
   const rows = posts.map((el, elIndex) => {
     const columns = el.map((totalPosts, i) => {
-      const { length } = totalPosts;
-      const key = `${elIndex}-${length}-${i}`;
+      const { day, hour } = selected;
       return (
         <Box
-          key={key}
-          index={key}
-          selected={selected === key}
-          handleActive={handleActive}
-          setPosts={setPosts}
+          // eslint-disable-next-line react/no-array-index-key
+          key={`${elIndex}-${i}`}
+          index={{ day: elIndex, hour: i }}
+          selected={day === elIndex && hour === i}
+          setSelected={setSelected}
+          setTimePosts={setTimePosts}
           posts={totalPosts}
         />
       );
     });
-    return <BoxRow key={uuid()}>{columns}</BoxRow>;
+    // eslint-disable-next-line react/no-array-index-key
+    return <BoxRow key={elIndex}>{columns}</BoxRow>;
   });
 
   return (

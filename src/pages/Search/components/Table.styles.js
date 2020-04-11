@@ -3,7 +3,7 @@ import styled, { css } from 'styled-components';
 export const TableContainer = styled.section`
   width: 786px;
   margin: 0 auto;
-  margin-top: 68px;
+  margin-top: 28px;
 `;
 
 export const StyledTable = styled.table`
@@ -30,10 +30,11 @@ export const TableData = styled.td`
     }
   `};
   :first-child {
-    max-width: 348px;
+    max-width: 350px;
   }
   :last-child {
-    max-width: 105px;
+    max-width: 104px;
+    padding: 0 14px 0 11px;
   }
 
   :last-child,

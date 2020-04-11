@@ -1,7 +1,7 @@
 import styled, { css } from 'styled-components';
 
 export const HeatmapContainer = styled.section`
-  width: 1200px;
+  width: 1115px;
   display: flex;
   flex-direction: column;
   align-items: center;

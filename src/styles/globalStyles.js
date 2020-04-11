@@ -77,7 +77,9 @@ export default createGlobalStyle`
     }
 
     th,td{
-        padding:9px 12px;
+        padding:0 12px;
+        height: 34px;
+
     }
 
 `;

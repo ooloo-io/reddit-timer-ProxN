@@ -1,5 +1,8 @@
-import React from 'react';
+import React, { useState } from 'react';
 import PropTypes from 'prop-types';
+import Table from './Table';
+import Box from './Box';
+
 import config from '../../../constants/config';
 import {
   HeatmapContainer,
@@ -12,36 +15,51 @@ import {
   BoxRow,
   TimeZone,
 } from './Heatmap.styles';
-import Box from './Box';
 
 const Heatmap = ({ posts }) => {
-  const rows = posts.map((el) => {
-    const columns = el.map((totalPosts) => (
-      <Box numTotalPosts={totalPosts.length} />
+  const [selected, setSelected] = useState('');
+  const { day, hour } = selected;
+
+  const rows = posts.map((el, elIndex) => {
+    const columns = el.map((totalPosts, i) => (
+      <Box
+        // eslint-disable-next-line react/no-array-index-key
+        key={`${elIndex}-${i}`}
+        index={{ day: elIndex, hour: i }}
+        selected={day === elIndex && hour === i}
+        setSelected={setSelected}
+        posts={posts[elIndex][i]}
+      />
     ));
-    return <BoxRow key={el}>{columns}</BoxRow>;
+    // eslint-disable-next-line react/no-array-index-key
+    return <BoxRow key={elIndex}>{columns}</BoxRow>;
   });
 
   return (
-    <HeatmapContainer>
-      <Grid>
-        <HoursList>
-          {config.hours.map((hour) => (
-            <HourItem key={hour}>{hour}</HourItem>
-          ))}
-        </HoursList>
-        <DaysList>
-          {config.days.map((day) => (
-            <DayItem key={day}>{day}</DayItem>
-          ))}
-        </DaysList>
-        <BoxesContainer>{rows}</BoxesContainer>
-      </Grid>
-      <TimeZone>
-        All times are shown in your timezone:&nbsp;
-        <span>{Intl.DateTimeFormat().resolvedOptions().timeZone}</span>
-      </TimeZone>
-    </HeatmapContainer>
+    <>
+      <HeatmapContainer>
+        <Grid>
+          <HoursList>
+            {config.hours.map((h) => (
+              <HourItem key={h}>{h}</HourItem>
+            ))}
+          </HoursList>
+          <DaysList>
+            {config.days.map((d) => (
+              <DayItem key={d}>{d}</DayItem>
+            ))}
+          </DaysList>
+          <BoxesContainer>{rows}</BoxesContainer>
+        </Grid>
+        <TimeZone>
+          All times are shown in your timezone:&nbsp;
+          <span>{Intl.DateTimeFormat().resolvedOptions().timeZone}</span>
+        </TimeZone>
+      </HeatmapContainer>
+      {posts[day] && posts[day][hour].length > 0 && (
+        <Table posts={posts[day][hour]} />
+      )}
+    </>
   );
 };
 

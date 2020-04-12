@@ -30,10 +30,10 @@ export const TableData = styled.td`
     }
   `};
   :first-child {
-    max-width: 350px;
+    max-width: 373px;
   }
   :last-child {
-    max-width: 104px;
+    max-width: 129px;
     padding: 0 14px 0 11px;
   }
 

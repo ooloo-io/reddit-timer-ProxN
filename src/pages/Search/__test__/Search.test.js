@@ -5,12 +5,14 @@ import {
   cleanup,
   waitForElementToBeRemoved,
   fireEvent,
+  waitFor,
 } from '@testing-library/react';
 import '@testing-library/jest-dom/extend-expect';
 import { ThemeProvider } from 'styled-components';
 import axiosMock from 'axios';
 import Search from '../index';
 import Theme from '../../../styles/theme';
+import posts from './posts.json';
 
 jest.mock('axios');
 afterEach(cleanup);
@@ -25,20 +27,6 @@ const renderWithRouter = (component, subreddit) => ({
   ),
 });
 
-const fakeData = () => {
-  const post = {
-    title: 'testing',
-    full_link: 'link',
-    created_utc: 1586823316,
-    score: 50,
-    num_comments: 50,
-    author: 'Ayoub',
-  };
-  const hours = Array.from({ length: 24 }, (v, i) => [i === 0 ? post : { i }]);
-  const data = Array.from({ length: 7 }, () => hours);
-  return data;
-};
-
 it('Should show javascript on search input', async () => {
   const { getByTestId } = renderWithRouter(<Search />, 'javascript');
 
@@ -49,15 +37,14 @@ it('Should show javascript on search input', async () => {
   await waitForElementToBeRemoved(() => getByTestId('loader'));
 });
 
-it('Should load data and remove loader', async () => {
+it('Should load data and show heatmap', async () => {
   axiosMock.get.mockResolvedValueOnce({
-    data: fakeData(),
+    data: posts,
   });
 
   const { getByTestId } = renderWithRouter(<Search />, 'javascript');
 
-  await waitForElementToBeRemoved(() => getByTestId('loader'));
-  const heatmap = getByTestId('heatmap');
+  const heatmap = await waitFor(() => getByTestId('heatmap'));
 
   expect(heatmap).toHaveTextContent('All times are shown in your timezone');
   expect(axiosMock.get).toHaveBeenCalledTimes(2);
@@ -65,20 +52,17 @@ it('Should load data and remove loader', async () => {
 
 it('Should update url on button click and load data', async () => {
   axiosMock.get.mockResolvedValue({
-    data: fakeData(),
+    data: posts,
   });
 
   const { getByTestId } = renderWithRouter(<Search />, 'javascript');
 
-  await waitForElementToBeRemoved(() => getByTestId('loader'));
-
-  const input = getByTestId('search-input');
+  const input = await getByTestId('search-input');
   fireEvent.change(input, { target: { value: 'reactjs' } });
   expect(input.value).toBe('reactjs');
   fireEvent.click(getByTestId('search-button'));
 
-  await waitForElementToBeRemoved(() => getByTestId('loader'));
-  const heatmap = getByTestId('heatmap');
+  const heatmap = await waitFor(() => getByTestId('heatmap'));
 
   expect(heatmap).toHaveTextContent('All times are shown in your timezone');
   expect(axiosMock.get).toHaveBeenCalledTimes(4);
@@ -86,16 +70,15 @@ it('Should update url on button click and load data', async () => {
 
 it('Should show table when box clicked', async () => {
   axiosMock.get.mockResolvedValueOnce({
-    data: fakeData(),
+    data: posts,
   });
 
   const { getByTestId } = renderWithRouter(<Search />, 'javascript');
 
-  await waitForElementToBeRemoved(() => getByTestId('loader'));
+  const box = await waitFor(() => getByTestId('0-0'));
+  fireEvent.click(box);
 
-  fireEvent.click(getByTestId('0-0'));
-
-  expect(getByTestId('table')).toHaveTextContent('testing');
+  expect(getByTestId('table')).toHaveTextContent('Flood fill');
   expect(axiosMock.get).toHaveBeenCalledTimes(5);
 });
 
@@ -106,8 +89,7 @@ it('Should show error if there no data', async () => {
 
   const { getByTestId } = renderWithRouter(<Search />, 'javascript');
 
-  await waitForElementToBeRemoved(() => getByTestId('loader'));
-
-  expect(getByTestId('error')).toHaveTextContent('javascript');
+  const error = await waitFor(() => getByTestId('error'));
+  expect(error).toHaveTextContent('javascript');
   expect(axiosMock.get).toHaveBeenCalledTimes(6);
 });

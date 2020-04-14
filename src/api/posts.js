@@ -11,7 +11,6 @@ export default async (subreddit) => {
     const URL = `${config.BASE_URL}search/submission/${query}`;
     const res = await axios.get(URL);
 
-    if (res.data.length > 0) return res.data;
     if (res.data.data && res.data.data.length > 0) {
       return convertData(res.data.data);
     }

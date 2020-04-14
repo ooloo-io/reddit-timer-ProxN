@@ -37,7 +37,7 @@ const Heatmap = ({ posts }) => {
 
   return (
     <>
-      <HeatmapContainer>
+      <HeatmapContainer data-testid="heatmap">
         <Grid>
           <HoursList>
             {config.hours.map((h) => (
@@ -64,7 +64,7 @@ const Heatmap = ({ posts }) => {
 };
 
 Heatmap.propTypes = {
-  posts: PropTypes.objectOf(PropTypes.object).isRequired,
+  posts: PropTypes.arrayOf(PropTypes.array).isRequired,
 };
 
 export default Heatmap;

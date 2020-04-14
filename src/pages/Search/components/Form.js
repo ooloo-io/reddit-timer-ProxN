@@ -23,8 +23,12 @@ const Form = () => {
         <h1>Find the best time for a subreddit</h1>
         <InputGroup>
           <Prefixed>r /</Prefixed>
-          <Input onChange={handleChange} value={query} />
-          <Button>Search</Button>
+          <Input
+            data-testid="search-input"
+            onChange={handleChange}
+            value={query}
+          />
+          <Button data-testid="search-button">Search</Button>
         </InputGroup>
       </FormContainer>
     </>

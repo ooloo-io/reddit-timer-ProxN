@@ -3,7 +3,7 @@ import LoaderContainer from './styles';
 import { ReactComponent as Spinner } from './loading.svg';
 
 const Loader = () => (
-  <LoaderContainer>
+  <LoaderContainer data-testid="loader">
     <Spinner />
   </LoaderContainer>
 );

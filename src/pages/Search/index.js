@@ -33,7 +33,7 @@ const SearchPage = () => {
       <SearchContainer>
         <Form />
         {loading && <Loader />}
-        {error && <ErrorText>{error}</ErrorText>}
+        {error && <ErrorText data-testid="error">{error}</ErrorText>}
         {posts.length > 0 && <Heatmap posts={posts} />}
       </SearchContainer>
     </main>

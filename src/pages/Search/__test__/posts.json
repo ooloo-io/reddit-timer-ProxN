@@ -1,0 +1,3504 @@
+{
+  "data": [
+    {
+      "author": "ChaseMoskal",
+      "created_utc": 1562095812,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c8drjo/nobody_talks_about_the_real_reason_to_use_tabs/",
+      "score": 995,
+      "title": "Nobody talks about the real reason to use Tabs over Spaces"
+    },
+    {
+      "author": "_-__-_-__-__-",
+      "created_utc": 1562776640,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cbizuk/someone_posted_a_video_showing_off_their_pseudo/",
+      "score": 962,
+      "title": "Someone posted a video showing off their pseudo desktop UI on r/webdev and I tried to make my version of it as a self challenge."
+    },
+    {
+      "author": "scheduled_nightmare",
+      "created_utc": 1557005617,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bkq3he/a_teacher_at_my_school_was_sick_of_remembering/",
+      "score": 850,
+      "title": "A teacher at my school was sick of remembering all the different bell schedules, so I created an app to make things easier. The whole school loves it."
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1558385640,
+      "full_link": "https://www.reddit.com/r/javascript/comments/br16u9/webgl_fluid_simulation/",
+      "score": 614,
+      "title": "WebGL Fluid Simulation"
+    },
+    {
+      "author": "Grandclosing",
+      "created_utc": 1567177548,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cxi68i/npm_bans_terminal_ads_a_reaction_to_recent/",
+      "score": 601,
+      "title": "NPM Bans Terminal Ads - a reaction to recent 'funding' experiment"
+    },
+    {
+      "author": "vjmde",
+      "created_utc": 1556183989,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bh6ill/javascript_is_and_remains_the_queen_of/",
+      "score": 578,
+      "title": "JavaScript is and remains the queen of programming languages with a community of 11.7M active developers. Python has reached 8.2M active developers and has taken the number two spot, surpassing Java in terms of popularity."
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1566826802,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cvo87k/popular_javascript_library_starts_showing_ads_in/",
+      "score": 574,
+      "title": "Popular JavaScript library starts showing ads in its terminal - Standard, a JavaScript style guide, linter, and automatic code fixer, has implemented what appears to be the first advertising system for JavaScript libraries"
+    },
+    {
+      "author": "garboooge",
+      "created_utc": 1571442726,
+      "full_link": "https://www.reddit.com/r/javascript/comments/djw0bc/50_javascript_quiz_questions_with_great/",
+      "score": 568,
+      "title": "50+ JavaScript quiz questions with great explanations to help study up for interviews"
+    },
+    {
+      "author": "akdumbagdum",
+      "created_utc": 1570646353,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dflccb/interview_with_a_pornhub_developer/",
+      "score": 558,
+      "title": "Interview with a pornhub developer"
+    },
+    {
+      "author": "afberg",
+      "created_utc": 1556808261,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bjvrex/npm_isnt_all_that_great/",
+      "score": 526,
+      "title": "NPM isn't all that great"
+    },
+    {
+      "author": "PMilos",
+      "created_utc": 1558514560,
+      "full_link": "https://www.reddit.com/r/javascript/comments/brm8dg/javascript_clean_code_best_practices_based_on/",
+      "score": 524,
+      "title": "JavaScript Clean Code - Best Practices - based on Robert C. Martin's book Clean Code"
+    },
+    {
+      "author": "parrissays",
+      "created_utc": 1560550471,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c0q0p5/10_books_that_changed_my_career_as_a_software/",
+      "score": 491,
+      "title": "10 books that changed my career as a software engineer"
+    },
+    {
+      "author": "FrancisStokes",
+      "created_utc": 1569934537,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dbszbr/a_few_months_ago_i_started_a_youtube_channel/",
+      "score": 468,
+      "title": "A Few Months Ago I Started a Youtube Channel Building Low Level Systems in JavaScript. This Is Episode 1 Of The \"16-Bit Virtual Machine\" Series"
+    },
+    {
+      "author": "xxammuxx",
+      "created_utc": 1556473490,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bidtu1/7_useful_javascript_tricks/",
+      "score": 464,
+      "title": "7 Useful JavaScript Tricks"
+    },
+    {
+      "author": "pmz",
+      "created_utc": 1560928534,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c2dxp4/github_lydiahalliejavascriptquestions_a_long_list/",
+      "score": 455,
+      "title": "GitHub - lydiahallie/javascript-questions: A long list of (advanced) JavaScript questions, and their explanations Updated weekly!"
+    },
+    {
+      "author": "adriansky",
+      "created_utc": 1555612053,
+      "full_link": "https://www.reddit.com/r/javascript/comments/beoyqb/github_dsajs_data_structures_and_algorithms/",
+      "score": 432,
+      "title": "GitHub - dsa.js: Data Structures and Algorithms explained and implemented in JavaScript"
+    },
+    {
+      "author": "kevinvz",
+      "created_utc": 1556275739,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bhkx5k/uppy_10_your_best_friend_in_file_uploading/",
+      "score": 432,
+      "title": "Uppy 1.0: Your best friend in file uploading"
+    },
+    {
+      "author": "AnecD",
+      "created_utc": 1556879162,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bk6v5q/fun_project_by_mathieu_anderson/",
+      "score": 431,
+      "title": "Fun project by Mathieu Anderson!"
+    },
+    {
+      "author": "Satrack",
+      "created_utc": 1560346365,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bzra53/former_npm_cto_launches_a_decentralized_federated/",
+      "score": 425,
+      "title": "Former npm CTO launches a decentralized, federated alternative to npm"
+    },
+    {
+      "author": "theZcuber",
+      "created_utc": 1569872471,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dbh0n2/optional_chaining_has_landed_on_typescript_master/",
+      "score": 424,
+      "title": "Optional chaining has landed on TypeScript master branch"
+    },
+    {
+      "author": "Musfiq-Fahad-Amin",
+      "created_utc": 1556535338,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bio3wk/google_is_implanting_nodejs_in_its_new_os_fuchsia/",
+      "score": 413,
+      "title": "Google is Implanting Node.js in Its New OS Fuchsia to Bring Deep JavaScript Support!"
+    },
+    {
+      "author": "AhhMiPichula",
+      "created_utc": 1569350017,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d8rbcv/exploiting_tinder_to_get_paid_features_for_free/",
+      "score": 410,
+      "title": "Exploiting Tinder to get paid features for free"
+    },
+    {
+      "author": "qaops",
+      "created_utc": 1568801716,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d5vn9f/research_shows_that_global_demand_for_javascript/",
+      "score": 409,
+      "title": "Research shows that global demand for JavaScript is outpacing student expertise"
+    },
+    {
+      "author": "vinnl",
+      "created_utc": 1559811046,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bxeflg/optional_chaining_is_now_at_stage_2/",
+      "score": 407,
+      "title": "Optional Chaining is now at stage 2!"
+    },
+    {
+      "author": "gketuma",
+      "created_utc": 1559173621,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bum37q/google_to_restrict_modern_ad_blocking_chrome/",
+      "score": 406,
+      "title": "Google to restrict modern ad blocking Chrome extensions to enterprise users"
+    },
+    {
+      "author": "initFabian",
+      "created_utc": 1557280065,
+      "full_link": "https://www.reddit.com/r/javascript/comments/blzd1m/hands_down_the_best_presentation_ive_ever_seen/",
+      "score": 402,
+      "title": "Hands down the best presentation I've ever seen over JavaScript Bundlers/Module system"
+    },
+    {
+      "author": "Dotnaught",
+      "created_utc": 1555966454,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bg79fo/npm_layoffs_followed_attempt_to_unionize/",
+      "score": 399,
+      "title": "NPM layoffs followed attempt to unionize, according to complaints"
+    },
+    {
+      "author": "garboooge",
+      "created_utc": 1569290646,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d8goc2/askjs_can_we_stop_treating_es2015_features_as_new/",
+      "score": 398,
+      "title": "[AskJS] Can we stop treating ES2015 features as new yet?"
+    },
+    {
+      "author": "kefranabg",
+      "created_utc": 1560456016,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c0alpe/generate_beautiful_readme_files_in_10_seconds/",
+      "score": 396,
+      "title": "Generate beautiful README files in 10 seconds"
+    },
+    {
+      "author": "blazenite3",
+      "created_utc": 1566562053,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cucywr/i_made_mario_html_written_in_typescript_supports/",
+      "score": 394,
+      "title": "I made Mario HTML - written in TypeScript, supports mobile!"
+    },
+    {
+      "author": "yottanami",
+      "created_utc": 1557581270,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bnc1xq/windows_95_in_electron_runs_on_macos_linux_and/",
+      "score": 393,
+      "title": "Windows 95 in Electron. Runs on macOS, Linux, and Windows."
+    },
+    {
+      "author": "spitfire092",
+      "created_utc": 1571597962,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dko0j2/til_about_the_command_npm_ci_it_is_similar_to_npm/",
+      "score": 391,
+      "title": "TIL about the command `npm ci`. It is similar to `npm install`, except it\u2019s meant for automated environments. It is a clean install that can be faster than normal because it skips user-oriented features."
+    },
+    {
+      "author": "anabominableincident",
+      "created_utc": 1570195890,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dd7em3/retro_nostalgia_why_my_new_website_looks_like/",
+      "score": 391,
+      "title": "Retro nostalgia &amp; why my new website looks like Window 9x"
+    },
+    {
+      "author": "OlanValesco",
+      "created_utc": 1561846192,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c75b5v/v8_76_release_in_v8_v76_weve_overhauled_our_json/",
+      "score": 384,
+      "title": "V8 7.6 Release: \"In V8 v7.6, we\u2019ve overhauled our JSON parser to be much faster at scanning and parsing JSON. This results in up to 2.7\u00d7 faster parsing of data served by popular web pages.\""
+    },
+    {
+      "author": "dickadrigerPruegel",
+      "created_utc": 1560171650,
+      "full_link": "https://www.reddit.com/r/javascript/comments/byxkef/show_reddit_rxdb_a_realtime_database_for/",
+      "score": 379,
+      "title": "Show Reddit: RxDB a realtime database for javascript applications"
+    },
+    {
+      "author": "JerryNotAgain",
+      "created_utc": 1565574642,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cp5qhm/askjs_the_sad_state_of_axios/",
+      "score": 379,
+      "title": "[AskJS] The sad state of Axios"
+    },
+    {
+      "author": "pawelgrzybek",
+      "created_utc": 1570849761,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dgpl0o/til_the_power_of_jsonstringify_replacer_parameter/",
+      "score": 376,
+      "title": "TIL \u2014 The power of JSON.stringify replacer parameter"
+    },
+    {
+      "author": "ya3ya6",
+      "created_utc": 1558257655,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bqewoa/did_you_know_you_can_style_consolelog_text/",
+      "score": 373,
+      "title": "Did you know you can style console.log text?"
+    },
+    {
+      "author": "impatient_bacon",
+      "created_utc": 1567465656,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cywkv5/i_made_bitmelo_a_free_tool_that_lets_you_build/",
+      "score": 370,
+      "title": "I made Bitmelo, a free tool that lets you build 8-bit games with Javascript"
+    },
+    {
+      "author": "himynameisdave9",
+      "created_utc": 1568675783,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d58ewc/indeed_donates_10000_to_eslint/",
+      "score": 360,
+      "title": "Indeed donates $10,000 to ESLint"
+    },
+    {
+      "author": "Wojtek1942",
+      "created_utc": 1557165585,
+      "full_link": "https://www.reddit.com/r/javascript/comments/blff5o/microsoft_launches_react_native_for_windows/",
+      "score": 358,
+      "title": "Microsoft launches React Native for Windows"
+    },
+    {
+      "author": "atum47",
+      "created_utc": 1570917124,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dh1hst/ive_made_a_rotary_dial_to_input_numbers_because/",
+      "score": 353,
+      "title": "I've made a rotary dial to input numbers, because, why not?"
+    },
+    {
+      "author": "DanielRosenwasser",
+      "created_utc": 1572973907,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ds2739/announcing_typescript_37/",
+      "score": 343,
+      "title": "Announcing TypeScript 3.7"
+    },
+    {
+      "author": "speckz",
+      "created_utc": 1557489919,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bmxfxn/building_a_javascript_guitar_pedalboard/",
+      "score": 341,
+      "title": "Building a JavaScript guitar pedalboard"
+    },
+    {
+      "author": "sundogbillionaire",
+      "created_utc": 1569688218,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dai8cu/2019_edition_i_created_the_exact_same_app_in/",
+      "score": 339,
+      "title": "[2019 Edition] I created the exact same app in React and Vue. Here are the differences. Now with Hooks"
+    },
+    {
+      "author": "yojimbo_beta",
+      "created_utc": 1572265868,
+      "full_link": "https://www.reddit.com/r/javascript/comments/do86da/modern_javascript_features_you_might_have_missed/",
+      "score": 336,
+      "title": "Modern JavaScript features you might have missed"
+    },
+    {
+      "author": "E06SP",
+      "created_utc": 1562036590,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c83ysg/the_odin_project_a_free_open_source_full_stack/",
+      "score": 335,
+      "title": "The Odin Project, A Free Open Source Full Stack Curriculum, Has Just Published A New NodeJS Course!"
+    },
+    {
+      "author": "krasimirtsonev",
+      "created_utc": 1556719408,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bjhfbn/building_the_new_facebookcom_with_react_graphql/",
+      "score": 332,
+      "title": "Building the New facebook.com with React, GraphQL and Relay"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1557348586,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bmam27/the_new_evergreen_googlebot_googlebot_now_runs/",
+      "score": 332,
+      "title": "The new evergreen Googlebot - Googlebot now runs the latest Chromium rendering engine, now supports 1000+ new features, like: ES6 and newer JavaScript features , IntersectionObserver for lazy-loading, Web Components v1 APIs"
+    },
+    {
+      "author": "kedar5",
+      "created_utc": 1567996010,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d1krg5/google_feedback_on_typescript_35/",
+      "score": 328,
+      "title": "Google feedback on TypeScript 3.5"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1561404964,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c4u64t/vue_we_no_longer_have_any_plan_of_deprecating_the/",
+      "score": 327,
+      "title": "Vue - \"We no longer have any plan of deprecating the Object API. It will stay for the foreseeable future. No refactoring needed. This also means we don't plan to drop it for Vue 4 too\""
+    },
+    {
+      "author": "dickadrigerPruegel",
+      "created_utc": 1571934859,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dmixm5/show_reddit_rxdb_a_reactive_database_where_you/",
+      "score": 326,
+      "title": "Show Reddit: RxDB - A reactive database where you can subscribe to the result of a query"
+    },
+    {
+      "author": "Phenox22",
+      "created_utc": 1559036089,
+      "full_link": "https://www.reddit.com/r/javascript/comments/btxz72/what_are_some_javascript_things_beginners_dont/",
+      "score": 321,
+      "title": "What are some JavaScript things beginners don't know?"
+    },
+    {
+      "author": "vzhou842",
+      "created_utc": 1556037669,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bgiky2/introducing_nodejs_12/",
+      "score": 319,
+      "title": "Introducing Node.js 12"
+    },
+    {
+      "author": "CodeTutorials",
+      "created_utc": 1568897053,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d6didn/moving_beyond_consolelog_8_console_methods_for/",
+      "score": 318,
+      "title": "Moving beyond console.log() \u2014 8 Console Methods for Debugging"
+    },
+    {
+      "author": "tenbits",
+      "created_utc": 1564503997,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cju5vi/had_an_idea_for_a_simple_clock_to_visualize_the/",
+      "score": 318,
+      "title": "Had an idea for a simple clock to visualize the 1440 precious minutes each of us has in a day. I \u2764\ufe0f JS for rapid prototyping!"
+    },
+    {
+      "author": "thewaywarddeveloper",
+      "created_utc": 1566990108,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cwj7sw/optional_chaining_is_implemented_in_v8/",
+      "score": 314,
+      "title": "Optional chaining is implemented in V8"
+    },
+    {
+      "author": "gregsometimes",
+      "created_utc": 1563032122,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ccqn96/tetris_turns_35_to_celebrate_i_created_my_own/",
+      "score": 311,
+      "title": "Tetris turns 35. To celebrate, I created my own \"Tetris in the dark\" version and wrote a tutorial explaining the source code. No libraries. No frameworks. Just vanilla JavaScript (a dying art?)"
+    },
+    {
+      "author": "FrancisStokes",
+      "created_utc": 1565078979,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cmnswg/i_started_a_youtube_channel_called_low_level/",
+      "score": 310,
+      "title": "I started a YouTube channel called Low Level JavaScript, where I build things like compilers and VMs from scratch and without libraries. This is the 3rd episode in a series about building a Parser Combinator library"
+    },
+    {
+      "author": "mitousa",
+      "created_utc": 1570751755,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dg6s14/webgl_fluid_simulation/",
+      "score": 307,
+      "title": "WebGL Fluid Simulation"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1568386962,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d3qis1/infinite_missiles_a_missle_defender_game_in_13kb/",
+      "score": 306,
+      "title": "Infinite Missiles - a Missle Defender game in 13kb of JavaScript"
+    },
+    {
+      "author": "mylesborins",
+      "created_utc": 1570546659,
+      "full_link": "https://www.reddit.com/r/javascript/comments/df13zo/toplevel_await_makes_it_possible_to_use_the_await/",
+      "score": 301,
+      "title": "\ud83d\ude80 Top-level await makes it possible to use the `await` keyword outside of async functions in JavaScript modules!"
+    },
+    {
+      "author": "homoiconic",
+      "created_utc": 1556126571,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bgxd8c/javascript_allong\u00e9_is_now_free/",
+      "score": 296,
+      "title": "JavaScript Allong\u00e9 is now free"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1560282705,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bzha3a/private_browsing_undetectable_in_chrome_76/",
+      "score": 295,
+      "title": "Private Browsing Undetectable in Chrome 76 - Apologies to the \"detect private mode\" scripts out there"
+    },
+    {
+      "author": "ekauroreo",
+      "created_utc": 1563462886,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cetrkq/private_browsing_still_detectable_in_chrome_76/",
+      "score": 293,
+      "title": "Private browsing still detectable in Chrome 76, bypassing the protection"
+    },
+    {
+      "author": "okwherearemypants",
+      "created_utc": 1563811394,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cgf2y1/rebuilding_slack_on_the_desktop/",
+      "score": 289,
+      "title": "Rebuilding Slack on the Desktop"
+    },
+    {
+      "author": "5ecured",
+      "created_utc": 1559370304,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bvhw78/in_light_of_what_google_did_to_chromeare_they/",
+      "score": 287,
+      "title": "In light of what Google did to Chrome...are they really superior to FF in terms of web dev?"
+    },
+    {
+      "author": "adriansky",
+      "created_utc": 1558640869,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bs7dx4/github_dsajs_data_structures_and_algorithms/",
+      "score": 287,
+      "title": "GitHub - dsa.js: Data Structures and Algorithms explained and implemented in JavaScript"
+    },
+    {
+      "author": "Labby92",
+      "created_utc": 1562425414,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c9uj7e/free_javascript_ebook_second_edition_read_for/",
+      "score": 286,
+      "title": "Free JavaScript ebook second edition (read for free on Github )"
+    },
+    {
+      "author": "lirantal",
+      "created_utc": 1562273627,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c97kja/snyk_research_team_discovers_severe_prototype/",
+      "score": 282,
+      "title": "Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash"
+    },
+    {
+      "author": "gregsometimes",
+      "created_utc": 1563507287,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cf2i19/higherorder_functions_map_filter_and_reduce/",
+      "score": 279,
+      "title": "Higher-order functions map(), filter() and reduce() explained using animation."
+    },
+    {
+      "author": "cpury",
+      "created_utc": 1561555275,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c5pqxs/ai_against_humanity_how_i_turned_a_machine/",
+      "score": 277,
+      "title": "AI Against Humanity: How I turned a Machine Learning experiment into an AI-driven browser game based on Cards Against Humanity (Spoiler: TensorFlow.js)"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1558022294,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bpeb7s/faster_smarter_javascript_debugging_in_firefox/",
+      "score": 276,
+      "title": "Faster smarter JavaScript debugging in Firefox DevTools"
+    },
+    {
+      "author": "chovy",
+      "created_utc": 1572889045,
+      "full_link": "https://www.reddit.com/r/javascript/comments/drl1d6/upcoming_new_javascript_features_you_should_know/",
+      "score": 276,
+      "title": "Upcoming new JavaScript features You should know if you use JavaScript everyday"
+    },
+    {
+      "author": "apalshah",
+      "created_utc": 1568475241,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d46ow5/are_you_making_your_website_vulnerable_or/",
+      "score": 273,
+      "title": "Are you making your website vulnerable or compromising the performance by adding target=\"_blank\"?"
+    },
+    {
+      "author": "reinink",
+      "created_utc": 1570020400,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dc9pjc/inertiajs_the_modern_monolith/",
+      "score": 273,
+      "title": "Inertia.js - The Modern Monolith"
+    },
+    {
+      "author": "Im_not_depressed_AMA",
+      "created_utc": 1567270017,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cxxm6k/firefox_nightly_added_support_for_websocket/",
+      "score": 270,
+      "title": "Firefox Nightly added support for WebSocket debugging"
+    },
+    {
+      "author": "veggiedefender",
+      "created_utc": 1564934247,
+      "full_link": "https://www.reddit.com/r/javascript/comments/clxvbd/detecting_incognito_mode_by_timing_the_chrome/",
+      "score": 269,
+      "title": "Detecting incognito mode by timing the Chrome FileSystem API"
+    },
+    {
+      "author": "CWagner",
+      "created_utc": 1560789307,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c1ppzq/a_css_based_web_framework_js_and_html_in_css/",
+      "score": 268,
+      "title": "A CSS based web framework \u2013 JS (and HTML) in CSS"
+    },
+    {
+      "author": "sebbal9",
+      "created_utc": 1586844983,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g107vs/cypress_now_supports_typescript_for_test_files/",
+      "score": 268,
+      "title": "Cypress now supports typescript for test files without using special preprocessors plugins"
+    },
+    {
+      "author": "dannymoerkerke",
+      "created_utc": 1570450022,
+      "full_link": "https://www.reddit.com/r/javascript/comments/deiirq/why_coding_your_own_makes_you_a_better_developer/",
+      "score": 266,
+      "title": "Why coding your own makes you a better developer"
+    },
+    {
+      "author": "FrancisStokes",
+      "created_utc": 1572531932,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dpo9va/what_is_the_stack_and_why_is_it_needed_16bit_vm/",
+      "score": 266,
+      "title": "What is the Stack and why is it needed? (16-Bit VM in JavaScript 003)"
+    },
+    {
+      "author": "Nimelrian",
+      "created_utc": 1564467686,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cjnpj9/no_way_to_prevent_this_says_only_development/",
+      "score": 265,
+      "title": "\u2018No way to prevent this\u2019, Says Only Development Community Where This Regularly Happens"
+    },
+    {
+      "author": "gregsometimes",
+      "created_utc": 1566336870,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ct6o5d/higherorder_functions_map_filter_and_reduce/",
+      "score": 265,
+      "title": "Higher-order functions map(), filter() and reduce() explained using animation"
+    },
+    {
+      "author": "pmz",
+      "created_utc": 1571237718,
+      "full_link": "https://www.reddit.com/r/javascript/comments/diqf6y/7_simple_but_tricky_javascript_interview_questions/",
+      "score": 263,
+      "title": "7 Simple but Tricky JavaScript Interview Questions"
+    },
+    {
+      "author": "honigbadger",
+      "created_utc": 1569486251,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d9gqkd/gpujs_gpu_accelerated_javascript/",
+      "score": 262,
+      "title": "GPU.js: GPU Accelerated JavaScript"
+    },
+    {
+      "author": "gaearon",
+      "created_utc": 1563717371,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cfz8lo/algebraic_effects_for_the_rest_of_us/",
+      "score": 261,
+      "title": "Algebraic Effects for the Rest of Us"
+    },
+    {
+      "author": "EuphoricAgnostic",
+      "created_utc": 1561971225,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c7q7oa/this_guy_creates_a_tinder_clone_in_60min_using/",
+      "score": 260,
+      "title": "This guy creates a tinder clone in 60min using react. Pretty impressive"
+    },
+    {
+      "author": "PMilos",
+      "created_utc": 1563788962,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cgb634/javascript_array_operations_cheat_sheet/",
+      "score": 256,
+      "title": "JavaScript Array Operations Cheat Sheet"
+    },
+    {
+      "author": "ConfidentMushroom",
+      "created_utc": 1559882293,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bxqiap/top_level_await_has_made_it_to_stage_3_of_tc39/",
+      "score": 256,
+      "title": "Top level await has made it to stage 3 of tc39"
+    },
+    {
+      "author": "tenbits",
+      "created_utc": 1586952203,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g1qmfg/any_fans_of_javascript_on_hardware_i_wanted_to/",
+      "score": 256,
+      "title": "Any fans of JavaScript on hardware? I wanted to share an IoT device I made that tells me when my next bus will arrive"
+    },
+    {
+      "author": "dickadrigerPruegel",
+      "created_utc": 1555391290,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bdq0qc/crosstabevents_with_a_broadcastchannel_that_works/",
+      "score": 255,
+      "title": "Crosstab-events with a BroadcastChannel that works in old browsers and Node.js"
+    },
+    {
+      "author": "daybrush",
+      "created_utc": 1563239157,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cdq838/moveable_draggable_resizable_scalable_rotatable/",
+      "score": 254,
+      "title": "Moveable! Draggable! Resizable! Scalable! Rotatable!"
+    },
+    {
+      "author": "etiennetalbot",
+      "created_utc": 1567595738,
+      "full_link": "https://www.reddit.com/r/javascript/comments/czjfpg/simplify_your_javascript_use_some_and_find/",
+      "score": 251,
+      "title": "Simplify your JavaScript \u2013 Use .some() and .find()"
+    },
+    {
+      "author": "rylandgold",
+      "created_utc": 1564069758,
+      "full_link": "https://www.reddit.com/r/javascript/comments/chphis/practical_ways_to_write_better_javascript/",
+      "score": 249,
+      "title": "Practical Ways to Write Better JavaScript"
+    },
+    {
+      "author": "catapop",
+      "created_utc": 1568049024,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d1trzt/caniuse_and_mdn_compatibility_data_collaboration/",
+      "score": 248,
+      "title": "Caniuse and MDN compatibility data collaboration"
+    },
+    {
+      "author": "Magnaboy",
+      "created_utc": 1564618329,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ckgpvc/my_first_ever_js_library_confusables_it_turns/",
+      "score": 248,
+      "title": "My first ever js library: \"Confusables\", it turns \"\u1f2a\u1f15\u013c\u013e\u199e\" to \"Hello\""
+    },
+    {
+      "author": "rbajaj1997",
+      "created_utc": 1561305528,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c46suc/how_much_javascript_is_enough_for_webdev/",
+      "score": 247,
+      "title": "How much Javascript is enough for webdev?"
+    },
+    {
+      "author": "ilya_ca",
+      "created_utc": 1564850850,
+      "full_link": "https://www.reddit.com/r/javascript/comments/clkvkr/heres_how_not_to_suck_at_javascript/",
+      "score": 246,
+      "title": "Here\u2019s How Not to Suck at JavaScript"
+    },
+    {
+      "author": "main_aisa_kyun_hoon",
+      "created_utc": 1567351398,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cyb8sd/i_took_part_in_google_summer_of_code_2019_and_for/",
+      "score": 246,
+      "title": "I took part in Google Summer of Code 2019 and for the first time developed a cross-browser extension. I was surprised to learn that it's not very complicated to develop a cross-browser extension. In the comments, I am sharing the resources that have helped me during this awesome learning experience!"
+    },
+    {
+      "author": "Pornaga",
+      "created_utc": 1560405623,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c023pj/30_seconds_of_code_learn_javascript_in_30_seconds/",
+      "score": 245,
+      "title": "30 seconds of code: Learn JavaScript in 30 seconds, one function at a time"
+    },
+    {
+      "author": "brendacg",
+      "created_utc": 1565717777,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cpwhg7/i_wrote_an_introguide_for_those_who_would_like_to/",
+      "score": 245,
+      "title": "I wrote an intro-guide for those who would like to know more about GraphQL"
+    },
+    {
+      "author": "fabiomf666",
+      "created_utc": 1563296698,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cdzty6/allinone_api_documentation_browser_with_offline/",
+      "score": 242,
+      "title": "All-in-one API documentation browser with offline mode and instant search"
+    },
+    {
+      "author": "ctrlaltdelmarva",
+      "created_utc": 1569764512,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dav9h8/javascript_quiz_questions_and_explanations/",
+      "score": 240,
+      "title": "JavaScript quiz questions and explanations"
+    },
+    {
+      "author": "dwaxe",
+      "created_utc": 1565289397,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cnpxkf/visual_studio_code_july_2019/",
+      "score": 239,
+      "title": "Visual Studio Code July 2019"
+    },
+    {
+      "author": "Chun",
+      "created_utc": 1566157816,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cs63rl/iframes_are_just_terrible_heres_how_they_could_be/",
+      "score": 238,
+      "title": "Iframes are just terrible. Here\u2019s how they could be better."
+    },
+    {
+      "author": "PMilos",
+      "created_utc": 1559474830,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bvweza/8_useful_and_practical_javascript_tricks/",
+      "score": 237,
+      "title": "8 Useful And Practical JavaScript Tricks"
+    },
+    {
+      "author": "wmnn",
+      "created_utc": 1557026699,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bktai2/ptsjs_08_play_and_visualize_music_in_javascript/",
+      "score": 237,
+      "title": "Pts.js 0.8 - Play and visualize music in javascript."
+    },
+    {
+      "author": "odxs",
+      "created_utc": 1565043562,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cmhxkh/how_to_build_a_bot_that_sends_dog_images/",
+      "score": 236,
+      "title": "How To Build a Bot That Sends Dog Images"
+    },
+    {
+      "author": "f_hendriks",
+      "created_utc": 1566399883,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cti3xs/why_you_should_use_eslint_prettier_and/",
+      "score": 236,
+      "title": "Why You Should Use ESLint, Prettier and EditorConfig Together"
+    },
+    {
+      "author": "selrond",
+      "created_utc": 1557520896,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bn3in2/github_package_registry/",
+      "score": 234,
+      "title": "GitHub Package Registry"
+    },
+    {
+      "author": "muhsinovic",
+      "created_utc": 1566660158,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cuuov5/regex_tutorial_beginners_guide_to_regular/",
+      "score": 234,
+      "title": "Regex Tutorial: Beginners Guide to Regular Expressions using JavaScript"
+    },
+    {
+      "author": "haptiK",
+      "created_utc": 1555779510,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bfeddh/i_am_interested_in_hearing_from_javascript/",
+      "score": 234,
+      "title": "I am interested in hearing from JavaScript professionals who lead a team or teams of developers. What does your day to day and week look like? what are some qualities of good leaders in this specific role as it applies to JavaScript programmers?"
+    },
+    {
+      "author": "Im_not_depressed_AMA",
+      "created_utc": 1563977812,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ch8qrd/nullish_coalescing_for_javascript_progressed_to/",
+      "score": 233,
+      "title": "Nullish Coalescing for JavaScript Progressed to Stage 3!"
+    },
+    {
+      "author": "pawnh4",
+      "created_utc": 1559449762,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bvtr3u/javascript_seems_to_make_more_sense_to_me_than/",
+      "score": 233,
+      "title": "javascript seems to make more sense to me than python"
+    },
+    {
+      "author": "muhsinovic",
+      "created_utc": 1567068738,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cwy7ef/3_lessons_learnt_after_taking_3_years_to_finish_a/",
+      "score": 230,
+      "title": "3 Lessons Learnt After Taking 3 Years To Finish a 300 Hour Certification"
+    },
+    {
+      "author": "matthewpmacdonald",
+      "created_utc": 1565491879,
+      "full_link": "https://www.reddit.com/r/javascript/comments/corgs9/setting_up_javascript_debugging_in_visual_studio/",
+      "score": 229,
+      "title": "Setting up JavaScript Debugging in Visual Studio Code"
+    },
+    {
+      "author": "mominriyadh",
+      "created_utc": 1565160302,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cn2bs8/javascript_whats_new_in_es2019/",
+      "score": 225,
+      "title": "JavaScript: What\u2019s new in ES2019"
+    },
+    {
+      "author": "enmanuelduran",
+      "created_utc": 1568985006,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d6uot1/two_exceptional_use_cases_for_the_spread_operator/",
+      "score": 225,
+      "title": "Two exceptional use cases for the spread operator you may not know of"
+    },
+    {
+      "author": "tyler-mcginnis",
+      "created_utc": 1559763981,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bx6yo8/imperative_vs_declarative_programming_in_60/",
+      "score": 221,
+      "title": "Imperative vs Declarative Programming, in 60 Seconds"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1562963298,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ccg6no/abcjs_javascript_for_rendering_abc_music_notation/",
+      "score": 219,
+      "title": "abcjs - javascript for rendering abc music notation"
+    },
+    {
+      "author": "eli_li",
+      "created_utc": 1565959110,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cr5s8n/the_anatomy_of_a_json_web_token/",
+      "score": 216,
+      "title": "The Anatomy of a JSON Web Token"
+    },
+    {
+      "author": "Morphray",
+      "created_utc": 1571741995,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dlg9sb/askjs_how_are_people_these_days_2019_making/",
+      "score": 212,
+      "title": "[AskJS] How are people these days (2019) making native mobile apps using JavaScript?"
+    },
+    {
+      "author": "TC5550",
+      "created_utc": 1555501435,
+      "full_link": "https://www.reddit.com/r/javascript/comments/be6ry9/cssjs_3d_multiplayer_shooter/",
+      "score": 210,
+      "title": "CSS+js 3D multiplayer shooter"
+    },
+    {
+      "author": "gisenberg",
+      "created_utc": 1564079789,
+      "full_link": "https://www.reddit.com/r/javascript/comments/chrnkm/tc39_advances_optional_chaining_proposal_to_stage/",
+      "score": 210,
+      "title": "TC39 advances Optional Chaining proposal to stage 3"
+    },
+    {
+      "author": "Dotnaught",
+      "created_utc": 1572101634,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dnevcr/googles_chrome_web_store_under_fire_for_shoddy/",
+      "score": 210,
+      "title": "Google's Chrome Web Store under fire for shoddy service and cryptic policies"
+    },
+    {
+      "author": "alexisabril",
+      "created_utc": 1566925096,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cw786j/introducing_feathers_4_a_framework_for_realtime/",
+      "score": 209,
+      "title": "Introducing Feathers 4: A framework for real-time apps and REST APIs"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1568223691,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d2txq8/spacekit_a_javascript_library_for_creating/",
+      "score": 209,
+      "title": "Spacekit - a JavaScript library for creating interactive 3D space visualizations, whether of the Earth/moon system, solar system, or beyond"
+    },
+    {
+      "author": "jiendang",
+      "created_utc": 1555817395,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bfkovn/i_made_an_extension_to_control_spotify_player/",
+      "score": 207,
+      "title": "I made an extension to control Spotify player using React"
+    },
+    {
+      "author": "oguzeroglu",
+      "created_utc": 1568561733,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d4m0jx/webgl_shooter_demo_mobile_compatible/",
+      "score": 207,
+      "title": "WebGL shooter demo (Mobile compatible)"
+    },
+    {
+      "author": "impurefunction",
+      "created_utc": 1557154484,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bld5ma/anyone_else_frustrated/",
+      "score": 207,
+      "title": "Anyone else frustrated?"
+    },
+    {
+      "author": "matthewpmacdonald",
+      "created_utc": 1566621178,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cuoz6i/how_javascript_grew_up_and_became_a_real_language/",
+      "score": 206,
+      "title": "How JavaScript Grew Up and Became a Real Language"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1562161109,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c8o792/npm_inc_settles_unionbusting_complaints_on_third/",
+      "score": 205,
+      "title": "NPM Inc settles union-busting complaints on third try \u2013 after CEO trolled for ordering internal mole hunt"
+    },
+    {
+      "author": "sieabah",
+      "created_utc": 1564343977,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cj0kqq/malicious_code_in_the_purescript_npm_installer/",
+      "score": 202,
+      "title": "Malicious code in the purescript npm installer"
+    },
+    {
+      "author": "mshilman",
+      "created_utc": 1568733542,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d5igo9/storybook_52_zeroconfig_component_docs_have_landed/",
+      "score": 200,
+      "title": "Storybook 5.2: Zero-config component docs have landed \ud83d\udd25"
+    },
+    {
+      "author": "dvfcfbgv",
+      "created_utc": 1564995895,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cm8lz2/minecraft_clone/",
+      "score": 199,
+      "title": "Minecraft Clone"
+    },
+    {
+      "author": "shihn",
+      "created_utc": 1556120155,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bgw2ke/wired_elements_10_handdrawn_sketchy_ui_elements/",
+      "score": 199,
+      "title": "Wired Elements 1.0: Hand-Drawn, Sketchy UI Elements for the Web"
+    },
+    {
+      "author": "cpojer",
+      "created_utc": 1562860332,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cbx8ah/hermes_a_lightweight_javascript_engine_optimized/",
+      "score": 198,
+      "title": "Hermes: a lightweight JavaScript engine optimized for React Native on Android"
+    },
+    {
+      "author": "nullvoxpopuli",
+      "created_utc": 1555873837,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bfsdxl/if_you_dont_use_typescript_tell_me_why/",
+      "score": 196,
+      "title": "If you don't use TypeScript, tell me why"
+    },
+    {
+      "author": "DlSGUSTlNG",
+      "created_utc": 1565807329,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cqdq7o/how_to_build_and_deploy_a_react_app_using_github/",
+      "score": 196,
+      "title": "How to build and deploy a React App using Github Actions"
+    },
+    {
+      "author": "smartapant",
+      "created_utc": 1565093931,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cmpumq/free_and_beautiful_vuejs_admin_template/",
+      "score": 195,
+      "title": "Free and beautiful Vue.js admin template"
+    },
+    {
+      "author": "pacdiv",
+      "created_utc": 1567526237,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cz6r6u/i_recently_started_to_work_on_a_playground_for/",
+      "score": 195,
+      "title": "I recently started to work on a playground for regexes, it is worth going further?"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1565207070,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cnalam/game_of_javascript_frameworks_the_most_demanded/",
+      "score": 195,
+      "title": "Game of JavaScript Frameworks: the most demanded front end developer skills of 2019"
+    },
+    {
+      "author": "pimterry",
+      "created_utc": 1568299206,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d38v4s/a_lighter_v8/",
+      "score": 194,
+      "title": "A lighter V8"
+    },
+    {
+      "author": "arnaudsm",
+      "created_utc": 1572033908,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dn2yyz/space_invaders_in_the_url_using_emojis_and/",
+      "score": 192,
+      "title": "Space Invaders in the URL using Emojis and JavaScript"
+    },
+    {
+      "author": "lqez",
+      "created_utc": 1572325578,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dolagh/apple_airpods_pro_page_uses_a_lot_of_images_so_i/",
+      "score": 192,
+      "title": "Apple AirPods Pro page uses a lot of images so I remade it with much smaller single video"
+    },
+    {
+      "author": "paulhodel",
+      "created_utc": 1561068040,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c329hv/jexcel_the_javascript_spreadsheet_component_mit/",
+      "score": 191,
+      "title": "jExcel the javascript spreadsheet component - MIT - Now trending on Github ;)"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1562183534,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c8sqab/jimp_an_image_processing_library_written_entirely/",
+      "score": 191,
+      "title": "jimp - an image processing library written entirely in JavaScript for Node, with zero external or native dependencies"
+    },
+    {
+      "author": "Brothers183",
+      "created_utc": 1562366673,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c9may6/i_love_writing_vanillajs/",
+      "score": 191,
+      "title": "I love writing VanillaJS"
+    },
+    {
+      "author": "LearningBus",
+      "created_utc": 1568896359,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d6ddek/cheat_sheet_for_moving_from_jquery_to_vanilla/",
+      "score": 190,
+      "title": "Cheat sheet for moving from jQuery to vanilla JavaScript"
+    },
+    {
+      "author": "lirantal",
+      "created_utc": 1559670202,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bwrlul/npm_passes_the_1_millionth_package_milestone_what/",
+      "score": 189,
+      "title": "npm passes the 1 millionth package milestone! What can we learn?"
+    },
+    {
+      "author": "b4r0k",
+      "created_utc": 1586704218,
+      "full_link": "https://www.reddit.com/r/javascript/comments/fzycj8/5_frontend_interview_coding_challenges/",
+      "score": 189,
+      "title": "5 Front-End Interview Coding Challenges"
+    },
+    {
+      "author": "waway_to_thro",
+      "created_utc": 1561616079,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c61x9z/today_i_learned_you_can_break_from_nested_loops/",
+      "score": 187,
+      "title": "Today I Learned you can break from nested loops using labels"
+    },
+    {
+      "author": "wiesson",
+      "created_utc": 1566305893,
+      "full_link": "https://www.reddit.com/r/javascript/comments/csydjn/datefns_v200_has_been_released/",
+      "score": 187,
+      "title": "date-fns v2.0.0 has been released!"
+    },
+    {
+      "author": "Slackluster",
+      "created_utc": 1563636824,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cfn33e/dissecting_a_dweet_how_to_make_a_mini_black_hole/",
+      "score": 186,
+      "title": "Dissecting A Dweet: How to make a Mini Black Hole in 140 bytes of Javascript!"
+    },
+    {
+      "author": "CupCakeArmy",
+      "created_utc": 1559315228,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bv8ny6/just_discovered_the_es6_proxy_object_if_you/",
+      "score": 185,
+      "title": "Just discovered the ES6 Proxy object. If you haven't played with it jet go do it now, super cool stuff!"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1563561796,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cfbf2c/falling_sand_image_transition_effect_in_just_16/",
+      "score": 185,
+      "title": "Falling sand - image transition effect in just 16 lines of vanilla JavaScript"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1571666402,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dl0ytz/peaksjs_javascript_ui_component_for_interacting/",
+      "score": 184,
+      "title": "peaks.js - JavaScript UI component for interacting with audio waveforms"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1562678764,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cb0uta/nextjs_9_released/",
+      "score": 184,
+      "title": "Next.js 9 released"
+    },
+    {
+      "author": "lipe182",
+      "created_utc": 1561021522,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c2tpwe/is_it_wrong_to_use_backticks_everywhere/",
+      "score": 183,
+      "title": "Is it wrong to use backticks (``) everywhere?"
+    },
+    {
+      "author": "acemarke",
+      "created_utc": 1565914130,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cqye0n/introducing_the_new_react_devtools/",
+      "score": 182,
+      "title": "Introducing the New React DevTools"
+    },
+    {
+      "author": "vnglst",
+      "created_utc": 1569164366,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d7rj7c/super_simple_kids_game_i_created_with_html_js/",
+      "score": 180,
+      "title": "Super simple kids game I created with HTML + JS last weekend. It's inspired by Stardew Valley and Monty Python and it's gaming reduced to it's essence (i.e. pushing buttons to gather points \ud83d\ude06)"
+    },
+    {
+      "author": "swamso",
+      "created_utc": 1556373086,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bhz990/i_made_a_crossplatform_youtube_playlist_channel/",
+      "score": 180,
+      "title": "I made a cross-platform YouTube playlist-, channel- and video downloader / converter."
+    },
+    {
+      "author": "itsmemielophone",
+      "created_utc": 1558869035,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bt6q8k/webassembly_at_ebay_a_realworld_use_case_barcode/",
+      "score": 178,
+      "title": "WebAssembly at eBay: A Real-World Use Case (Barcode scanning with WASM)"
+    },
+    {
+      "author": "floppydiskette",
+      "created_utc": 1586926679,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g1lcnp/writing_an_emulator_in_javascript_and_interfacing/",
+      "score": 177,
+      "title": "Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)"
+    },
+    {
+      "author": "atomlib_com",
+      "created_utc": 1559551618,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bw8fn9/compiling_c_to_webassembly_without_emscripten/",
+      "score": 176,
+      "title": "Compiling C to WebAssembly without Emscripten"
+    },
+    {
+      "author": "WittBulter",
+      "created_utc": 1560618450,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c0zk4v/more_popular_and_simple_way_to_build_commandline/",
+      "score": 176,
+      "title": "More popular and simple way to build command-line tools"
+    },
+    {
+      "author": "GafflordDev",
+      "created_utc": 1564299660,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cit4sw/browsers_console_as_a_chat_room/",
+      "score": 176,
+      "title": "Browser's console as a chat room"
+    },
+    {
+      "author": "mominriyadh",
+      "created_utc": 1564764899,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cl6pr9/electron_600_electron_blog/",
+      "score": 176,
+      "title": "Electron 6.0.0 | Electron Blog"
+    },
+    {
+      "author": "ctrlaltdelmarva",
+      "created_utc": 1570404889,
+      "full_link": "https://www.reddit.com/r/javascript/comments/debb8d/trying_to_restart_a_repository_of_javascript/",
+      "score": 176,
+      "title": "Trying to restart a repository of JavaScript algos, patterns, and techniques if anyone is interested in contributing and learning"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1556803694,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bjuy1w/babylonjs_40_has_officially_been_released_this/",
+      "score": 176,
+      "title": "Babylon.js 4.0 has officially been released. This version of Babylon.js is a major step forward in one of the world\u2019s leading WebGL-based, graphics engines"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1569594764,
+      "full_link": "https://www.reddit.com/r/javascript/comments/da19f4/announcing_gatsbys_15m_series_a_funding_round/",
+      "score": 176,
+      "title": "Announcing Gatsby\u2019s $15M Series A Funding Round"
+    },
+    {
+      "author": "GitW_85",
+      "created_utc": 1557907332,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bov3r7/javascript_engines_how_do_they_even_work_from/",
+      "score": 175,
+      "title": "JavaScript Engines: How Do They Even Work? From Call Stack to Promise, (almost ) Everything You Need to Know"
+    },
+    {
+      "author": "speckz",
+      "created_utc": 1557407326,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bmjlwk/a_guide_to_setting_up_vim_for_javascript/",
+      "score": 175,
+      "title": "A guide to setting up Vim for JavaScript development"
+    },
+    {
+      "author": "iammowgoud",
+      "created_utc": 1570368790,
+      "full_link": "https://www.reddit.com/r/javascript/comments/de3ahg/you_dont_know_js_book_review/",
+      "score": 175,
+      "title": "You Don\u2019t Know JS - Book Review"
+    },
+    {
+      "author": "Heqx",
+      "created_utc": 1571106066,
+      "full_link": "https://www.reddit.com/r/javascript/comments/di167h/typical_animated_typing_in_400_bytes_of_javascript/",
+      "score": 174,
+      "title": "typical: animated typing in ~400 bytes of JavaScript"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1571167648,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dicyzj/npm_is_moving_back_to_its_developer_roots_founder/",
+      "score": 174,
+      "title": "npm is moving back to its developer roots, founder says"
+    },
+    {
+      "author": "dennis754603",
+      "created_utc": 1565621883,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cpdhgf/consolebadge_create_simple_badges_in_the_browser/",
+      "score": 173,
+      "title": "\ud83c\udfa8 console-badge - Create simple badges in the browser console"
+    },
+    {
+      "author": "loremimpulse",
+      "created_utc": 1567420546,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cynbzd/best_practices_for_testing_in_javascript_nodejs/",
+      "score": 172,
+      "title": "Best Practices for Testing in JavaScript &amp; Node.js"
+    },
+    {
+      "author": "vnovick",
+      "created_utc": 1568102265,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d24g54/the_ultimate_guide_to_handling_jwts_on_frontend/",
+      "score": 172,
+      "title": "The Ultimate Guide to handling JWTs on frontend clients (GraphQL)"
+    },
+    {
+      "author": "Xeoncross",
+      "created_utc": 1556146476,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bh17rx/how_to_sell_your_product_to_a_developer/",
+      "score": 171,
+      "title": "How to sell your product to a developer"
+    },
+    {
+      "author": "rauschma",
+      "created_utc": 1555302867,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bdc09f/assemblyscript_typescript_to_webassembly_compiler/",
+      "score": 171,
+      "title": "AssemblyScript: TypeScript to WebAssembly compiler"
+    },
+    {
+      "author": "vzhou842",
+      "created_utc": 1555731118,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bf8052/javascript_the_worlds_most_misunderstood/",
+      "score": 170,
+      "title": "JavaScript: The World's Most Misunderstood Programming Language (2001)"
+    },
+    {
+      "author": "therealtimcoulter",
+      "created_utc": 1561653539,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c67qzm/introducing_truffle_a_blockchain_development/",
+      "score": 170,
+      "title": "Introducing Truffle - a blockchain development framework written in Javascript. Can you give me some feedback?"
+    },
+    {
+      "author": "kefranabg",
+      "created_utc": 1557235313,
+      "full_link": "https://www.reddit.com/r/javascript/comments/blqn1q/image_lazy_loading_with_inline_svg/",
+      "score": 170,
+      "title": "Image lazy loading with inline svg"
+    },
+    {
+      "author": "bikeshaving",
+      "created_utc": 1586980919,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g1zj87/crankjs_an_alternative_to_reactjs_with_built_in/",
+      "score": 170,
+      "title": "Crank.js - An alternative to React.js with built in support for promises and generator functions for state."
+    },
+    {
+      "author": "GitW_85",
+      "created_utc": 1562591688,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cakvry/the_little_javascript_book/",
+      "score": 168,
+      "title": "The Little JavaScript Book"
+    },
+    {
+      "author": "micheleriva",
+      "created_utc": 1568645323,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d51p2v/writing_a_blockchain_in_nodejs/",
+      "score": 168,
+      "title": "Writing a Blockchain in Node.js"
+    },
+    {
+      "author": "ctrlaltdelmarva",
+      "created_utc": 1570281812,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ddn78o/showoff_saturday_a_javascript_quiz_app_that_you/",
+      "score": 168,
+      "title": "[Showoff Saturday] A JavaScript quiz app that you can use to improve your JS skills and contribute to!"
+    },
+    {
+      "author": "Minute_Action",
+      "created_utc": 1567821086,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d0q0zn/i_never_understood_javascript_closures/",
+      "score": 168,
+      "title": "I never understood JavaScript closures"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1586787874,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g0jwlu/jquery_350_released/",
+      "score": 167,
+      "title": "jQuery 3.5.0 Released"
+    },
+    {
+      "author": "dwaxe",
+      "created_utc": 1567629272,
+      "full_link": "https://www.reddit.com/r/javascript/comments/czqd6o/visual_studio_code_august_2019/",
+      "score": 166,
+      "title": "Visual Studio Code August 2019"
+    },
+    {
+      "author": "acemarke",
+      "created_utc": 1560229438,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bz8ag6/reactredux_v71_with_hooks_is_now_final/",
+      "score": 165,
+      "title": "React-Redux v7.1 with hooks is now final!"
+    },
+    {
+      "author": "jkkill",
+      "created_utc": 1571827797,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dlxige/create_read_update_delete_cookies_in_javascript/",
+      "score": 165,
+      "title": "Create, Read, Update, &amp; Delete Cookies in JavaScript"
+    },
+    {
+      "author": "drcmda",
+      "created_utc": 1571262470,
+      "full_link": "https://www.reddit.com/r/javascript/comments/diwefs/my_first_game_written_in_javascript/",
+      "score": 164,
+      "title": "My first game written in javascript"
+    },
+    {
+      "author": "WorriedInSF",
+      "created_utc": 1562637826,
+      "full_link": "https://www.reddit.com/r/javascript/comments/caufp8/askjs_frontend_engineer_onsite_interviews_for/",
+      "score": 160,
+      "title": "[AskJS] Frontend Engineer Onsite Interviews for those \"prestigious\" companies (e.g. Google, FB, Lyft, Uber, Airbnb, LinkedIn, Dropbox)"
+    },
+    {
+      "author": "h_sa1994",
+      "created_utc": 1558726154,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bsl4id/great_article_to_know_about_async_programming_in/",
+      "score": 160,
+      "title": "great article to know about async programming in node js"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1569006052,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d6zhb0/npm_inc_announces_leadership_change_ceo_bryan/",
+      "score": 159,
+      "title": "npm, Inc. Announces Leadership Change - CEO Bryan Bogensberger departing; Board of Directors opens a search for candidates"
+    },
+    {
+      "author": "diemondz",
+      "created_utc": 1573036734,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dsek54/modern_end_to_end_testing_with_cypressio/",
+      "score": 158,
+      "title": "Modern end to end Testing with Cypress.io"
+    },
+    {
+      "author": "SleepingAriadne",
+      "created_utc": 1556952934,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bkii2v/whats_the_most_dirty_thing_youve_had_to_work_with/",
+      "score": 158,
+      "title": "What's the most dirty thing you've had to work with in code and how did you solve them?"
+    },
+    {
+      "author": "Chun",
+      "created_utc": 1557944025,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bp1dr5/functionalish_javascript/",
+      "score": 157,
+      "title": "Functional-ish JavaScript"
+    },
+    {
+      "author": "__because",
+      "created_utc": 1569071092,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d7a8k4/robot_a_1kb_library_for_finite_state_machines/",
+      "score": 157,
+      "title": "Robot, a 1kB library for finite state machines"
+    },
+    {
+      "author": "NishkalKashyap",
+      "created_utc": 1562929051,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cc9dfe/announcing_quark_a_software_sketchbook_for_your/",
+      "score": 157,
+      "title": "\ud83c\udf1f Announcing \u201cQuark\u201d \u2014 A Software sketchbook for your projects \u26a1"
+    },
+    {
+      "author": "krasimirtsonev",
+      "created_utc": 1556628824,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bj2y35/why_and_how_i_built_my_own_github/",
+      "score": 156,
+      "title": "Why and how I built my own GitHub"
+    },
+    {
+      "author": "WishingonaWendy",
+      "created_utc": 1557786047,
+      "full_link": "https://www.reddit.com/r/javascript/comments/boa6an/javascript_procedural_city_generator_for_tabletop/",
+      "score": 156,
+      "title": "Javascript Procedural City Generator for Tabletop Games"
+    },
+    {
+      "author": "DanielRosenwasser",
+      "created_utc": 1567023788,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cwqaik/announcing_typescript_36/",
+      "score": 154,
+      "title": "Announcing TypeScript 3.6"
+    },
+    {
+      "author": "ctrlaltdelmarva",
+      "created_utc": 1567905564,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d14l1c/callbacks_promises_and_asyncawait/",
+      "score": 153,
+      "title": "Callbacks, Promises, and Async-Await"
+    },
+    {
+      "author": "JeromeWu",
+      "created_utc": 1557664861,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bnoj2m/tesseractjs_v2_alpha_version_is_now_available/",
+      "score": 153,
+      "title": "Tesseract.js v2 alpha version is now available."
+    },
+    {
+      "author": "chovy",
+      "created_utc": 1565369428,
+      "full_link": "https://www.reddit.com/r/javascript/comments/co51yh/react_v1690_and_the_roadmap_update_react_blog/",
+      "score": 152,
+      "title": "React v16.9.0 and the Roadmap Update \u2013 React Blog"
+    },
+    {
+      "author": "hiquest",
+      "created_utc": 1586687731,
+      "full_link": "https://www.reddit.com/r/javascript/comments/fzuidn/whats_new_in_ecmascript_2020_strict_mode/",
+      "score": 151,
+      "title": "What's new in ECMAScript 2020 | Strict Mode"
+    },
+    {
+      "author": "SentialX",
+      "created_utc": 1560695632,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c1aj3m/multrin_organize_apps_in_tabs_now_with_macos/",
+      "score": 150,
+      "title": "Multrin - Organize apps in tabs (now with macOS support!)"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1569346530,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d8qiyx/voidcall_the_making_of_13kb_javascript_realtime/",
+      "score": 149,
+      "title": "Voidcall \u2013 the making of 13kb javascript real-time strategy game"
+    },
+    {
+      "author": "verydan",
+      "created_utc": 1566517978,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cu5txs/vcslack_vscode_extension_that_sends_code_snippets/",
+      "score": 148,
+      "title": "VCSlack - VSCode Extension that sends code snippets to Slack"
+    },
+    {
+      "author": "TurnaroundGames",
+      "created_utc": 1558775062,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bssiex/javascripts_for_loop_is_surprisingly_fast/",
+      "score": 147,
+      "title": "JavaScript's for loop is surprisingly fast"
+    },
+    {
+      "author": "lucagez",
+      "created_utc": 1557873716,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bopoc2/sjs_slowest_json_serializer_in_the_galaxy/",
+      "score": 147,
+      "title": "SJS \u2014 slowest JSON serializer in the galaxy"
+    },
+    {
+      "author": "abs1337",
+      "created_utc": 1572862863,
+      "full_link": "https://www.reddit.com/r/javascript/comments/drfqa2/i_made_this_js_lib_that_creates_a_word_doc_with/",
+      "score": 147,
+      "title": "I made this JS lib that creates a Word doc with Text/HTML markup, any feedback is appreciated."
+    },
+    {
+      "author": "koavf",
+      "created_utc": 1569546351,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d9t38m/javascript_whats_new_in_ecmascript_2019_es2019es10/",
+      "score": 146,
+      "title": "JavaScript: What\u2019s new in ECMAScript 2019 (ES2019)/ES10?"
+    },
+    {
+      "author": "MisterJK2",
+      "created_utc": 1558589947,
+      "full_link": "https://www.reddit.com/r/javascript/comments/brzfiw/camelcase_in_front_snake_case_in_the_back/",
+      "score": 145,
+      "title": "camelCase in front, snake_case in the back"
+    },
+    {
+      "author": "nickforddesign",
+      "created_utc": 1560874548,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c247fr/freezeframejs_400alpha_released/",
+      "score": 145,
+      "title": "Freezeframe.js 4.0.0-alpha released"
+    },
+    {
+      "author": "gactleaks",
+      "created_utc": 1564671130,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ckpdxk/long_live_the_virtual_dom/",
+      "score": 145,
+      "title": "Long Live the Virtual DOM"
+    },
+    {
+      "author": "tajo21",
+      "created_utc": 1572477154,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dpenmq/what_goes_into_building_a_drag_and_drop_component/",
+      "score": 144,
+      "title": "What goes into building a drag and drop component in 2019?"
+    },
+    {
+      "author": "ovvn23",
+      "created_utc": 1563428120,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ceoda2/created_an_npm_module_for_downloading_a_printable/",
+      "score": 144,
+      "title": "Created an npm module for downloading a printable pdf from html on client-side"
+    },
+    {
+      "author": "ab-azure",
+      "created_utc": 1566462375,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ctug7v/metaprogramming_in_js_write_your_first_codemod/",
+      "score": 144,
+      "title": "Metaprogramming in JS: Write your first codemod!"
+    },
+    {
+      "author": "atum47",
+      "created_utc": 1566779288,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cvgo9q/radialmenujs_a_highly_customizable_radial_menu/",
+      "score": 143,
+      "title": "RadialMenu.js - A highly customizable radial menu that's very easy to setup."
+    },
+    {
+      "author": "jrsinclair",
+      "created_utc": 1586773590,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g0gd6y/the_algebraic_structure_of_functions_illustrated/",
+      "score": 143,
+      "title": "The Algebraic Structure of Functions, illustrated using React components"
+    },
+    {
+      "author": "modranzedi",
+      "created_utc": 1565194128,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cn7ra3/what_every_developer_should_learn_early_on/",
+      "score": 143,
+      "title": "What Every Developer Should Learn Early On"
+    },
+    {
+      "author": "Likalo",
+      "created_utc": 1558108034,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bpswok/tourguidejs_a_simple_lightweight_clean_and_small/",
+      "score": 142,
+      "title": "Tourguide.js - A simple, lightweight, clean and small library for creating guided product tours for your web app"
+    },
+    {
+      "author": "_lukewh",
+      "created_utc": 1561501810,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c5go62/darkmodejs_manage_dark_mode_on_the_web_with/",
+      "score": 141,
+      "title": "DarkmodeJS - manage dark mode on the web with matchMedia and prefers-color-scheme"
+    },
+    {
+      "author": "stemmlerjs",
+      "created_utc": 1561821882,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c70767/better_software_design_with_application_layer_use/",
+      "score": 140,
+      "title": "Better Software Design with Application Layer Use Cases | Enterprise Node.js + TypeScript"
+    },
+    {
+      "author": "ctrlaltdelmarva",
+      "created_utc": 1568510633,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d4e1z4/showoff_saturday_i_started_making_javascript/",
+      "score": 140,
+      "title": "[Showoff Saturday] I started making javascript YouTube tutorials with a goal of being clear and concise!"
+    },
+    {
+      "author": "hiquest",
+      "created_utc": 1569653170,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dacm1e/vim_for_javascript_and_react_in_2019_vim_from/",
+      "score": 140,
+      "title": "Vim for JavaScript and React in 2019 | Vim From Scratch"
+    },
+    {
+      "author": "pmz",
+      "created_utc": 1564206742,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ciduqd/art_of_unit_testing_3rd_edition_with_examples_in/",
+      "score": 139,
+      "title": "Art of Unit Testing, 3rd Edition, With Examples in JavaScript: Tech Reviewers Wanted"
+    },
+    {
+      "author": "FanielDanara",
+      "created_utc": 1558489933,
+      "full_link": "https://www.reddit.com/r/javascript/comments/briwmi/managing_a_secure_json_web_token_implementation/",
+      "score": 138,
+      "title": "Managing a Secure JSON Web Token Implementation"
+    },
+    {
+      "author": "TankhouseAle",
+      "created_utc": 1560619059,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c0zo8o/psa_your_handrolled_sort_function_is_probably/",
+      "score": 137,
+      "title": "PSA: Your hand-rolled sort() function is probably faster than Array.sort()"
+    },
+    {
+      "author": "bluebill1049",
+      "created_utc": 1560740569,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c1ii7h/react_hook_for_form_validation_without_the_hassle/",
+      "score": 137,
+      "title": "React Hook for form validation without the hassle"
+    },
+    {
+      "author": "domyen",
+      "created_utc": 1564409908,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cjbulk/introducing_component_story_format_for_storybook/",
+      "score": 137,
+      "title": "Introducing Component Story Format for Storybook \u2013 express component examples with ES6 modules"
+    },
+    {
+      "author": "dannymoerkerke",
+      "created_utc": 1567416572,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cymsaa/using_the_dom_like_a_pro/",
+      "score": 137,
+      "title": "Using the DOM like a Pro"
+    },
+    {
+      "author": "op_prabhuomkar",
+      "created_utc": 1559997842,
+      "full_link": "https://www.reddit.com/r/javascript/comments/by7m33/open_source_graphql_api_for_online_show_netflix/",
+      "score": 136,
+      "title": "Open Source GraphQL API for Online Show (Netflix, HBO, Hulu, Amazon Prime, etc.)"
+    },
+    {
+      "author": "_Gentle_",
+      "created_utc": 1572288297,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dod6hd/tetris_in_the_url/",
+      "score": 136,
+      "title": "Tetris in the URL"
+    },
+    {
+      "author": "tytanic843",
+      "created_utc": 1568162263,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d2hlr9/askjs_anyone_have_recommendations_for_open_source/",
+      "score": 136,
+      "title": "[AskJS] Anyone have recommendations for open source JavaScript projects that are well written?"
+    },
+    {
+      "author": "geongeorgek",
+      "created_utc": 1561745773,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c6nli3/this_package_will_solve_all_your_html5_canvas/",
+      "score": 136,
+      "title": "This package will solve all your HTML5 canvas text needs!"
+    },
+    {
+      "author": "fagnerbrack",
+      "created_utc": 1555899793,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bfws72/npm_request_module_is_entering_maintenance_mode/",
+      "score": 136,
+      "title": "NPM \"request\" module is entering maintenance mode"
+    },
+    {
+      "author": "caldasjd",
+      "created_utc": 1564235414,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cihpzn/unrevealed_tips_for_unit_testing_with_jest/",
+      "score": 135,
+      "title": "Unrevealed tips for unit testing with Jest"
+    },
+    {
+      "author": "ilyaigpetr0v",
+      "created_utc": 1566737700,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cv85kt/google_removes_anticensorship_chrome_extension/",
+      "score": 135,
+      "title": "Google removes anti-censorship chrome extension for custom minification techniques in external PAC-script"
+    },
+    {
+      "author": "_sync0x",
+      "created_utc": 1571094543,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dhythb/noisetoscroll_scroll_your_page_by_making_noise/",
+      "score": 134,
+      "title": "noiseToScroll - Scroll your page by making noise (whistle, finger snap...)"
+    },
+    {
+      "author": "lirantal",
+      "created_utc": 1570385919,
+      "full_link": "https://www.reddit.com/r/javascript/comments/de71f4/quickly_check_if_a_website_is_running_vulnerable/",
+      "score": 134,
+      "title": "Quickly check if a website is running vulnerable JS libs straight from the terminal"
+    },
+    {
+      "author": "speckz",
+      "created_utc": 1567689765,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d00rg8/improve_your_javascript_knowledge_by_reading/",
+      "score": 133,
+      "title": "Improve Your JavaScript Knowledge By Reading Source Code \u2014 Smashing Magazine"
+    },
+    {
+      "author": "gavreh",
+      "created_utc": 1562524445,
+      "full_link": "https://www.reddit.com/r/javascript/comments/caa64o/how_do_javascripts_global_variables_really_work/",
+      "score": 133,
+      "title": "How do JavaScript\u2019s global variables really work?"
+    },
+    {
+      "author": "erulabs",
+      "created_utc": 1555458555,
+      "full_link": "https://www.reddit.com/r/javascript/comments/be0z0r/introducing_deploynodeapp_deploy_your_nodejs_app/",
+      "score": 133,
+      "title": "Introducing deploy-node-app: Deploy your node.js app to Kubernetes with a single command. No config required."
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1559136135,
+      "full_link": "https://www.reddit.com/r/javascript/comments/buem8i/zdog_a_3d_javascript_engine_for_canvas_and_svg/",
+      "score": 133,
+      "title": "Zdog - a 3D JavaScript engine for &lt;canvas&gt; and SVG. With Zdog, you can design and render simple 3D models on the Web. Zdog is a pseudo-3D engine. Its geometries exist in 3D space, but are rendered as flat shapes"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1563997260,
+      "full_link": "https://www.reddit.com/r/javascript/comments/chcwoe/mithriljs_20_released/",
+      "score": 132,
+      "title": "Mithril.js 2.0 released"
+    },
+    {
+      "author": "minuit1984",
+      "created_utc": 1561144482,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c3f0ou/javascript_open_source_summer_project/",
+      "score": 132,
+      "title": "JavaScript Open Source Summer Project"
+    },
+    {
+      "author": "dickadrigerPruegel",
+      "created_utc": 1562011124,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c7zb7v/show_reddit_compress_jsondata_based_on_its/",
+      "score": 132,
+      "title": "Show Reddit: Compress json-data based on its json-schema"
+    },
+    {
+      "author": "_jsdw",
+      "created_utc": 1563107617,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cd2iey/angu_a_small_zerodependency_library_for/",
+      "score": 131,
+      "title": "Angu: A small, zero-dependency library for implementing mini-languages in the browser or NodeJS"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1556572347,
+      "full_link": "https://www.reddit.com/r/javascript/comments/biuttp/horrifyingpdfexperiments_breakout_in_a_pdf_file/",
+      "score": 130,
+      "title": "horrifying-pdf-experiments - breakout in a pdf file in Chrome"
+    },
+    {
+      "author": "zombiejj",
+      "created_utc": 1559274822,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bv2s40/ant_design_40_is_in_progress/",
+      "score": 130,
+      "title": "Ant Design 4.0 is in progress!"
+    },
+    {
+      "author": "vitalets",
+      "created_utc": 1563360363,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ceb6ox/whats_wrong_with_promiseallsettled_and_promiseany/",
+      "score": 130,
+      "title": "What's wrong with Promise.allSettled() and Promise.any()\u2753"
+    },
+    {
+      "author": "enmanuelduran",
+      "created_utc": 1559659347,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bwphrq/code_quality_and_web_performance_in_javascript/",
+      "score": 130,
+      "title": "Code quality and web performance in javascript, the myths, the do's and the don'ts"
+    },
+    {
+      "author": "GitW_85",
+      "created_utc": 1569248649,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d877sv/typescript_tutorial_for_beginners_the_missing/",
+      "score": 129,
+      "title": "TypeScript Tutorial for Beginners: The Missing Guide"
+    },
+    {
+      "author": "ctrlaltdelmarva",
+      "created_utc": 1565549927,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cp0r0v/exploring_the_twosum_interview_question_in/",
+      "score": 129,
+      "title": "Exploring the Two-Sum Interview Question in JavaScript"
+    },
+    {
+      "author": "rauschma",
+      "created_utc": 1569166248,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d7ryel/faq_private_vs_in_typescript/",
+      "score": 129,
+      "title": "FAQ: `private` vs. `#` in TypeScript"
+    },
+    {
+      "author": "wdahman",
+      "created_utc": 1555942116,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bg2iwi/reattempt_give_your_functions_another_chance/",
+      "score": 128,
+      "title": "reattempt - \ud83d\ude4fGive your functions another chance"
+    },
+    {
+      "author": "Slackluster",
+      "created_utc": 1570321655,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ddvykw/js13k_results_are_out_13k_javascript_game_jam/",
+      "score": 128,
+      "title": "JS13k Results Are Out! (13k JavaScript Game Jam)"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1572443526,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dp70tq/exciting_new_features_in_vue_3/",
+      "score": 128,
+      "title": "Exciting new features in Vue 3"
+    },
+    {
+      "author": "enricojr",
+      "created_utc": 1560143738,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bytv4i/whats_going_on_with_npm/",
+      "score": 127,
+      "title": "What's going on with npm?"
+    },
+    {
+      "author": "quedicestu",
+      "created_utc": 1570466057,
+      "full_link": "https://www.reddit.com/r/javascript/comments/delwlf/roughvizjs_make_sketchy_handdrawn_styled_svg/",
+      "score": 127,
+      "title": "roughViz.js - Make sketchy, hand-drawn styled SVG charts in the browser."
+    },
+    {
+      "author": "AlienSoldier",
+      "created_utc": 1564586135,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ck9tln/i_created_visualisation_of_path_finding/",
+      "score": 126,
+      "title": "I created visualisation of path finding algorithms, basic physics forces and Genetic algorithm with vanilla js. (update with more visualisations on a weekly basis)"
+    },
+    {
+      "author": "rachevo",
+      "created_utc": 1561477824,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c5aj57/why_are_there_so_many_javascript_frameworks/",
+      "score": 126,
+      "title": "Why are there so many JavaScript frameworks?"
+    },
+    {
+      "author": "kwerboom",
+      "created_utc": 1567974141,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d1gcz1/its_not_wrong_that_length_7/",
+      "score": 126,
+      "title": "It\u2019s not wrong that \"\ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f\".length == 7"
+    },
+    {
+      "author": "dance2die",
+      "created_utc": 1555282745,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bd8tyi/adding_numbers_using_boolean_operations_in/",
+      "score": 126,
+      "title": "Adding numbers using Boolean operations in JavaScript"
+    },
+    {
+      "author": "kunalag129",
+      "created_utc": 1560070603,
+      "full_link": "https://www.reddit.com/r/javascript/comments/byic71/practicejs_coding_exercises_in_a_mobile_friendly/",
+      "score": 125,
+      "title": "PracticeJS \u2013 Coding exercises in a mobile friendly web app"
+    },
+    {
+      "author": "our_best_friend",
+      "created_utc": 1559951208,
+      "full_link": "https://www.reddit.com/r/javascript/comments/by1jre/to_have_a_future_ember_must_kill_its_past/",
+      "score": 125,
+      "title": "To Have A Future, Ember Must Kill Its Past"
+    },
+    {
+      "author": "codittycodittycode",
+      "created_utc": 1572808718,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dr56mr/scaling_web_sockets_using_shared_workers/",
+      "score": 124,
+      "title": "Scaling Web Sockets using Shared Workers"
+    },
+    {
+      "author": "fagnerbrack",
+      "created_utc": 1570091627,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dco1ju/the_differing_perspectives_on_cssinjs/",
+      "score": 124,
+      "title": "The Differing Perspectives on CSS-in-JS"
+    },
+    {
+      "author": "deepak387",
+      "created_utc": 1566218029,
+      "full_link": "https://www.reddit.com/r/javascript/comments/csggps/getting_started_with_react_hooks_with_step_by/",
+      "score": 124,
+      "title": "Getting started with React Hooks with step by step examples"
+    },
+    {
+      "author": "mmmdk",
+      "created_utc": 1562716366,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cb8yex/how_to_build_minesweeper_with_javascript/",
+      "score": 123,
+      "title": "How To Build Minesweeper With JavaScript"
+    },
+    {
+      "author": "PMilos",
+      "created_utc": 1565687233,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cpqjgo/es_proposal_optional_chaining_and_nullish/",
+      "score": 123,
+      "title": "ES Proposal - Optional Chaining and Nullish Coalescing"
+    },
+    {
+      "author": "Terrible_dev",
+      "created_utc": 1558363506,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bqwfhw/cutting_our_webpack_build_times_in_half/",
+      "score": 122,
+      "title": "Cutting our webpack build times in half"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1570722458,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dfzxej/vue_3_a_roundup_of_infos_about_the_new_version_of/",
+      "score": 122,
+      "title": "Vue 3 \u2013 A roundup of infos about the new version of Vue.js"
+    },
+    {
+      "author": "theraspberryguy",
+      "created_utc": 1578158999,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ejzhvh/remote_development_with_vs_code_in_your_browser/",
+      "score": 122,
+      "title": "Remote Development With VS Code in Your Browser"
+    },
+    {
+      "author": "praveenscience",
+      "created_utc": 1558809900,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bsxymk/tiptap_a_renderless_richtext_editor_for_vuejs/",
+      "score": 121,
+      "title": "tiptap \u2013 a renderless rich-text editor for Vue.js"
+    },
+    {
+      "author": "stanislavb",
+      "created_utc": 1565214486,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cnc6zv/data_structures_and_algorithms_explained_and/",
+      "score": 121,
+      "title": "Data Structures and Algorithms explained and implemented in JavaScript"
+    },
+    {
+      "author": "pauldowman",
+      "created_utc": 1561379527,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c4mxv4/a_js_conference_with_only_testingrelated_talks/",
+      "score": 121,
+      "title": "A JS conference with *only* testing-related talks"
+    },
+    {
+      "author": "gynvael",
+      "created_utc": 1567342705,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cy9mhj/gamedev_challenge_in_jswasm_size_limit_64kb/",
+      "score": 120,
+      "title": "GameDev Challenge in JS/WASM (size limit 64KB + additional constrains)"
+    },
+    {
+      "author": "kedar5",
+      "created_utc": 1572933708,
+      "full_link": "https://www.reddit.com/r/javascript/comments/drv3l9/announcing_visual_studio_online_public_preview/",
+      "score": 120,
+      "title": "Announcing Visual Studio Online Public Preview | Visual Studio Blog"
+    },
+    {
+      "author": "apalshah",
+      "created_utc": 1567951651,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d1bbuv/things_i_learned_while_implementing_bubble_sort/",
+      "score": 120,
+      "title": "Things I learned while implementing Bubble sort animation using CSS and JavaScript"
+    },
+    {
+      "author": "cevr",
+      "created_utc": 1561253305,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c3xgxg/an_incredibly_easy_way_to_use_firebase_in_react/",
+      "score": 119,
+      "title": "An incredibly easy way to use Firebase in React"
+    },
+    {
+      "author": "gregsometimes",
+      "created_utc": 1558795401,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bsv97q/i_created_this_visual_flex_editor_entirely_in/",
+      "score": 119,
+      "title": "I created this visual Flex editor entirely in vanilla JavaScript and explained step by step how I did it (see walk-thru tutorial in comments). Allegedly, it has been used in multiple classrooms to teach CSS."
+    },
+    {
+      "author": "Schampu",
+      "created_utc": 1565769673,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cq6l5x/vulkan_api_for_javascripttypescript/",
+      "score": 118,
+      "title": "Vulkan API for JavaScript/TypeScript"
+    },
+    {
+      "author": "jfadev",
+      "created_utc": 1557105087,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bl5mmn/turn_your_existing_site_into_pwa_with_this_js/",
+      "score": 118,
+      "title": "Turn your existing site into PWA with this JS library"
+    },
+    {
+      "author": "acanguven",
+      "created_utc": 1558906353,
+      "full_link": "https://www.reddit.com/r/javascript/comments/btdjmm/i_wrote_a_http_client_for_micro_frontend/",
+      "score": 118,
+      "title": "I wrote a HTTP client for micro frontend architecture. Now we started to use it on every Node.js project."
+    },
+    {
+      "author": "kamranahmed_se",
+      "created_utc": 1561128159,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c3bf4s/gitpending_list_todo_fixme_testme_docme_comments/",
+      "score": 116,
+      "title": "Git-Pending \u2013 List TODO, FIXME, TESTME, DOCME comments in a repo with verbose details"
+    },
+    {
+      "author": "dwaxe",
+      "created_utc": 1558623799,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bs418n/strict_null_checking_the_visual_studio_code/",
+      "score": 115,
+      "title": "Strict null checking the Visual Studio Code codebase"
+    },
+    {
+      "author": "dwighthouse",
+      "created_utc": 1563928228,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ch0x6n/jsoncomplete_20_released/",
+      "score": 115,
+      "title": "json-complete 2.0 Released"
+    },
+    {
+      "author": "trenskow",
+      "created_utc": 1570997754,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dhfvx6/i_made_this_small_string_extension_for_converting/",
+      "score": 115,
+      "title": "I made this small string extension for converting for different casing (camel, pascal, etc.), if anyone is interested."
+    },
+    {
+      "author": "franleplant",
+      "created_utc": 1578018185,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ej8mjk/how_to_build_a_blog_with_gatsbyjs_in_a_few_easy/",
+      "score": 115,
+      "title": "How to build a blog with Gatsby.js in a few easy steps"
+    },
+    {
+      "author": "AutoModerator",
+      "created_utc": 1571846664,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dm1elk/wtf_wednesday_october_23_2019/",
+      "score": 114,
+      "title": "WTF Wednesday (October 23, 2019)"
+    },
+    {
+      "author": "stackoverflooooooow",
+      "created_utc": 1566098229,
+      "full_link": "https://www.reddit.com/r/javascript/comments/crw3no/how_to_use_chome_dev_tool_to_find_event_handler/",
+      "score": 113,
+      "title": "How to use Chome dev tool to find event handler bound to an element"
+    },
+    {
+      "author": "rubenspgcavalcante",
+      "created_utc": 1558711556,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bsi92b/webpack_from_zero_to_hero_chapter_3_everything_is/",
+      "score": 112,
+      "title": "Webpack From Zero to Hero - Chapter 3: Everything is a Module"
+    },
+    {
+      "author": "stemmlerjs",
+      "created_utc": 1558318477,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bqpbrp/solid_principles_the_software_developers/",
+      "score": 112,
+      "title": "SOLID Principles: The Software Developer's Framework to Robust &amp; Maintainable Code"
+    },
+    {
+      "author": "pimterry",
+      "created_utc": 1563199186,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cdhsze/is_postmessage_slow/",
+      "score": 111,
+      "title": "Is postMessage slow?"
+    },
+    {
+      "author": "shrithm",
+      "created_utc": 1571051761,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dhp4ex/create_a_serverside_rendering_graphql_client_with/",
+      "score": 111,
+      "title": "Create a server-side rendering GraphQL client with Next.js and Apollo Client"
+    },
+    {
+      "author": "itsmemielophone",
+      "created_utc": 1557834079,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bohtdc/blueprint_a_reactbased_ui_toolkit_for_the_web/",
+      "score": 110,
+      "title": "Blueprint - A React-based UI toolkit for the web"
+    },
+    {
+      "author": "VincentCordobes",
+      "created_utc": 1564145837,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ci2j9u/nextjs_9_antd_node_postgresql_demo_appwritten_in/",
+      "score": 110,
+      "title": "Next.js 9, antd, Node, PostgreSQL demo app\u2014written in TypeScript with raw SQL"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1571341951,
+      "full_link": "https://www.reddit.com/r/javascript/comments/djbo7x/tinacms_a_site_editing_toolkit_for_modern/",
+      "score": 110,
+      "title": "TinaCMS - a site editing toolkit for modern React-based sites (Gatsby and Next.js)"
+    },
+    {
+      "author": "asok090",
+      "created_utc": 1563894520,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cgtssl/cubejs_design_decisions/",
+      "score": 110,
+      "title": "Cube.js design decisions"
+    },
+    {
+      "author": "pmz",
+      "created_utc": 1572079024,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dnb7ms/javascript_101_design_patterns/",
+      "score": 110,
+      "title": "JavaScript 101: Design Patterns"
+    },
+    {
+      "author": "rayhan666",
+      "created_utc": 1555495069,
+      "full_link": "https://www.reddit.com/r/javascript/comments/be5y72/javascript_will_lead_d/",
+      "score": 109,
+      "title": "Javascript will lead :D"
+    },
+    {
+      "author": "terodox",
+      "created_utc": 1571528750,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dkbqyh/using_npm_link_for_local_package_development/",
+      "score": 109,
+      "title": "Using `npm link` for local package development"
+    },
+    {
+      "author": "mcaruso",
+      "created_utc": 1572800822,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dr3ay7/attributes_of_object_properties_in_javascript/",
+      "score": 109,
+      "title": "Attributes of object properties in JavaScript"
+    },
+    {
+      "author": "delventhalz",
+      "created_utc": 1564415175,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cjczt0/life_simulator_with_real_natural_selection/",
+      "score": 108,
+      "title": "Life simulator with real natural selection written entirely in vanilla JS"
+    },
+    {
+      "author": "kifkev91",
+      "created_utc": 1555693221,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bf1hry/2_questions_on_datastructures_in_javascript/",
+      "score": 107,
+      "title": "2 questions on datastructures in Javascript"
+    },
+    {
+      "author": "drcmda",
+      "created_utc": 1557439134,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bmpx30/particle_effects_in_react/",
+      "score": 107,
+      "title": "Particle effects in React"
+    },
+    {
+      "author": "romainlanz",
+      "created_utc": 1563137894,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cd8605/create_a_simple_cache_system/",
+      "score": 107,
+      "title": "Create a Simple Cache System"
+    },
+    {
+      "author": "monica_b1998",
+      "created_utc": 1566082900,
+      "full_link": "https://www.reddit.com/r/javascript/comments/crtcef/flood_fill_image_transition_effect_in_16_lines_of/",
+      "score": 107,
+      "title": "Flood fill - image transition effect in 16 lines of pure JavaScript"
+    },
+    {
+      "author": "va-santh",
+      "created_utc": 1568870467,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d69hb8/jsonboxio_store_retrieve_json_over_http_for_free/",
+      "score": 107,
+      "title": "jsonbox.io - Store &amp; retrieve JSON over HTTP for free."
+    },
+    {
+      "author": "iwasaki-kenta",
+      "created_utc": 1562231676,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c90got/build_a_decentralized_chat_using_javascript_rust/",
+      "score": 106,
+      "title": "Build A Decentralized Chat Using JavaScript &amp; Rust (WebAssembly)"
+    },
+    {
+      "author": "dicebecast",
+      "created_utc": 1568008894,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d1mwam/a_comprehensive_list_of_new_javasript_features/",
+      "score": 106,
+      "title": "A comprehensive list of new Javasript features since 2015, including ES6, ES7, ES8, ES9, ES10"
+    },
+    {
+      "author": "scopsy",
+      "created_utc": 1569240285,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d85kwt/releasly_be_notified_on_new_opensource_version/",
+      "score": 106,
+      "title": "Releasly - Be notified on new open-source version releases"
+    },
+    {
+      "author": "agustin107",
+      "created_utc": 1570805867,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dggczr/object_preventextension_vs_seal_vs_freeze/",
+      "score": 106,
+      "title": "Object preventExtension vs seal vs freeze"
+    },
+    {
+      "author": "wilfredinni",
+      "created_utc": 1558537513,
+      "full_link": "https://www.reddit.com/r/javascript/comments/brpvxp/javascript_cheatsheet/",
+      "score": 105,
+      "title": "JavaScript Cheatsheet"
+    },
+    {
+      "author": "Jake_Jeremy",
+      "created_utc": 1586877929,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g17jir/webstorm_20201_has_been_released/",
+      "score": 105,
+      "title": "WebStorm 2020.1 has been released"
+    },
+    {
+      "author": "h43z",
+      "created_utc": 1556362794,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bhxz3y/til_about_the_screen_capture_api_which_i_used_to/",
+      "score": 105,
+      "title": "TIL: about the screen capture api which I used to build a screenrecording website"
+    },
+    {
+      "author": "yottanami",
+      "created_utc": 1557742859,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bo1otg/x86_virtualization_in_javascript_running_in_your/",
+      "score": 105,
+      "title": "x86 virtualization in JavaScript, running in your browser and NodeJS"
+    },
+    {
+      "author": "pawelgrzybek",
+      "created_utc": 1559109020,
+      "full_link": "https://www.reddit.com/r/javascript/comments/buawqb/typescript_interface_vs_type/",
+      "score": 105,
+      "title": "TypeScript interface vs. type"
+    },
+    {
+      "author": "itsappleseason",
+      "created_utc": 1560798099,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c1rkhm/i_built_a_spotify_visualizer_and_a_library_so_you/",
+      "score": 105,
+      "title": "I built a Spotify visualizer, and a library so you can too."
+    },
+    {
+      "author": "tim_breeding",
+      "created_utc": 1565437056,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cogz5i/i_made_a_tabata_timer_with_nextjs/",
+      "score": 104,
+      "title": "I made a Tabata Timer with Nextjs"
+    },
+    {
+      "author": "dennismphil",
+      "created_utc": 1557330877,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bm6xww/debugging_node_the_fun_way_using_visual_studio/",
+      "score": 104,
+      "title": "Debugging Node the fun way using Visual Studio Code Debug mode"
+    },
+    {
+      "author": "lee337reilly",
+      "created_utc": 1572647250,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dqbhw0/github_game_off_theme_announced_leaps_and_bounds/",
+      "score": 102,
+      "title": "GitHub Game Off theme announced - LEAPS AND BOUNDS"
+    },
+    {
+      "author": "tomcam",
+      "created_utc": 1555563371,
+      "full_link": "https://www.reddit.com/r/javascript/comments/behme1/build_sites_fast_from_markdown_using_vuepress/",
+      "score": 101,
+      "title": "Build sites fast from Markdown using VuePress, Netlify, and GitHub"
+    },
+    {
+      "author": "pmz",
+      "created_utc": 1564736682,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cl1nc6/oreilly_publishes_modern_web_development_on_the/",
+      "score": 101,
+      "title": "O\u2019Reilly publishes Modern Web Development on the JAMstack | Netlify"
+    },
+    {
+      "author": "chris211321",
+      "created_utc": 1561902450,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c7e3kk/asynchronous_boundary_detection_lazyloading/",
+      "score": 100,
+      "title": "Asynchronous Boundary Detection (Lazy-loading, Infinite Scroll, ...)"
+    },
+    {
+      "author": "JeromeWu",
+      "created_utc": 1571703649,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dl9mji/build_ffmpeg_webassembly_version_ffmpegjs_part3/",
+      "score": 100,
+      "title": "Build FFmpeg WebAssembly version (= ffmpeg.js): Part.3 ffmpeg.js v0.1.0 \u2014 Transcoding avi to mp4"
+    },
+    {
+      "author": "flaviocopes",
+      "created_utc": 1569662855,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dadush/how_i_stopped_worrying_and_learned_to_love_the/",
+      "score": 98,
+      "title": "How I stopped worrying and learned to love the JavaScript ecosystem"
+    },
+    {
+      "author": "haverbeke",
+      "created_utc": 1558207376,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bq7q7v/chromium_developers_eslint_rules/",
+      "score": 97,
+      "title": "Chromium developers' eslint rules"
+    },
+    {
+      "author": "CertainPerformance",
+      "created_utc": 1556759615,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bjp2r0/why_are_await_and_async_valid_variable_names/",
+      "score": 97,
+      "title": "Why are await and async valid variable names?"
+    },
+    {
+      "author": "Devgson",
+      "created_utc": 1567664646,
+      "full_link": "https://www.reddit.com/r/javascript/comments/czx141/learn_how_to_implement_rolebased_access_control/",
+      "score": 97,
+      "title": "Learn how to implement Role-based Access Control in a Node application"
+    },
+    {
+      "author": "SkylakeX",
+      "created_utc": 1565388418,
+      "full_link": "https://www.reddit.com/r/javascript/comments/co9bqa/revised_with_your_feedback_the_best_vs_code/",
+      "score": 96,
+      "title": "Revised with your feedback - The Best VS Code Extensions for Full Stack Developers"
+    },
+    {
+      "author": "kieranpotts",
+      "created_utc": 1571127752,
+      "full_link": "https://www.reddit.com/r/javascript/comments/di4sut/should_we_rebrand_javascript/",
+      "score": 95,
+      "title": "Should We Rebrand JavaScript?"
+    },
+    {
+      "author": "Schampu",
+      "created_utc": 1571387751,
+      "full_link": "https://www.reddit.com/r/javascript/comments/djkkux/lightweight_gpu_accelerated_html_gui_for_node/",
+      "score": 95,
+      "title": "Lightweight GPU accelerated HTML GUI for Node"
+    },
+    {
+      "author": "oguzeroglu",
+      "created_utc": 1556448846,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bia2d1/webgl_magic_walls/",
+      "score": 94,
+      "title": "WebGL magic walls"
+    },
+    {
+      "author": "UnfazedButDazed",
+      "created_utc": 1571417227,
+      "full_link": "https://www.reddit.com/r/javascript/comments/djq70t/my_first_real_js_project_a_data_driven_3d_car/",
+      "score": 94,
+      "title": "My first real JS project. A data driven 3d car model."
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1569525705,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d9ofdj/jexcel_v2_the_javascript_spreadsheet/",
+      "score": 93,
+      "title": "jExcel v2: The javascript spreadsheet"
+    },
+    {
+      "author": "schrik",
+      "created_utc": 1572616320,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dq4ihr/cropping_images_to_a_specific_aspect_ratio_with/",
+      "score": 92,
+      "title": "Cropping Images to a specific Aspect Ratio with JavaScript"
+    },
+    {
+      "author": "bluebill1049",
+      "created_utc": 1558993273,
+      "full_link": "https://www.reddit.com/r/javascript/comments/btrrm6/react_simple_animate_v3_22kb_make_ui_animation/",
+      "score": 92,
+      "title": "React Simple Animate v3 (2.2kb) - make UI animation simple"
+    },
+    {
+      "author": "thesadburrito",
+      "created_utc": 1567735502,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d0abnn/server_rendered_components_in_under_2kb/",
+      "score": 91,
+      "title": "Server Rendered Components in Under 2kb"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1560973779,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c2lqj9/micro_frontends_an_example_of_a_micro_front_end/",
+      "score": 91,
+      "title": "Micro Frontends - an example of a micro front end application"
+    },
+    {
+      "author": "mikeborozdin",
+      "created_utc": 1572719113,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dqo6hi/gradual_move_to_typescript_running_javascript_and/",
+      "score": 91,
+      "title": "Gradual move to TypeScript. Running JavaScript and TypeScript side-by-side"
+    },
+    {
+      "author": "brodega",
+      "created_utc": 1578085360,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ejlpbf/askjs_share_with_me_your_uplifting_stories_of/",
+      "score": 91,
+      "title": "[AskJS] Share with me your uplifting stories of supporting an AngularJS project in the year 2020"
+    },
+    {
+      "author": "devishnya",
+      "created_utc": 1565845978,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cqljm3/addressing_the_webassembly_vs_javascript_debate/",
+      "score": 90,
+      "title": "Addressing the \"WebAssembly vs. JavaScript\" debate"
+    },
+    {
+      "author": "apalshah",
+      "created_utc": 1566679552,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cuyuqf/a_gist_which_shows_the_difference_between_the_es5/",
+      "score": 89,
+      "title": "A gist which shows the difference between the ES5 and ES6 classes with a simple example using inheritance!"
+    },
+    {
+      "author": "wpmed92",
+      "created_utc": 1563614488,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cfjwwo/backpropaganda_a_neural_network_nodejs_framework/",
+      "score": 89,
+      "title": "backpropaganda - a neural network Node.js framework for educational purposes"
+    },
+    {
+      "author": "mshilman",
+      "created_utc": 1555425812,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bduqfp/storybook_docs_new_component_docs_tool_for/",
+      "score": 89,
+      "title": "Storybook Docs - New component docs tool for React/Vue/Angular &amp; more"
+    },
+    {
+      "author": "jrsinclair",
+      "created_utc": 1559225741,
+      "full_link": "https://www.reddit.com/r/javascript/comments/butp45/functional_javascript_five_ways_to_calculate_an/",
+      "score": 88,
+      "title": "Functional JavaScript: Five ways to calculate an average with array reduce"
+    },
+    {
+      "author": "marylai22",
+      "created_utc": 1570598655,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dfchs5/15_common_javascript_questions_detailed_answers/",
+      "score": 88,
+      "title": "15 Common JavaScript Questions &amp; Detailed Answers"
+    },
+    {
+      "author": "gajus0",
+      "created_utc": 1572692729,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dqip50/handling_unhandled_promise_rejections_in_async/",
+      "score": 88,
+      "title": "Handling unhandled promise rejections in async functions"
+    },
+    {
+      "author": "DanielRosenwasser",
+      "created_utc": 1558055679,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bpkv7a/announcing_typescript_35_rc/",
+      "score": 87,
+      "title": "Announcing TypeScript 3.5 RC"
+    },
+    {
+      "author": "caspervonb",
+      "created_utc": 1560060304,
+      "full_link": "https://www.reddit.com/r/javascript/comments/byhaob/why_dark_gray_is_brighter_than_gray_in_css/",
+      "score": 87,
+      "title": "Why Dark Gray is Brighter than Gray In CSS"
+    },
+    {
+      "author": "mominriyadh",
+      "created_utc": 1561082111,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c34l27/everything_you_need_to_know_about_the_date_in/",
+      "score": 87,
+      "title": "Everything you need to know about the date in JavaScript."
+    },
+    {
+      "author": "mehulmpt",
+      "created_utc": 1557054813,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bkwljj/thanos_snap_reverse_engineering_googles_easter_egg/",
+      "score": 87,
+      "title": "Thanos snap: Reverse engineering Google's easter egg"
+    },
+    {
+      "author": "pgl",
+      "created_utc": 1564482146,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cjps2z/whats_new_in_es2019/",
+      "score": 86,
+      "title": "What\u2019s new in ES2019"
+    },
+    {
+      "author": "schnautzi",
+      "created_utc": 1566552763,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cubijq/randomly_generated_flying_rockets_on_a_canvas/",
+      "score": 86,
+      "title": "Randomly generated flying rockets on a canvas"
+    },
+    {
+      "author": "deletesoonplz",
+      "created_utc": 1569126402,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d7lpbv/askjs_how_to_know_if_my_js_is_outdated/",
+      "score": 86,
+      "title": "[AskJS] How to know if my JS is outdated?"
+    },
+    {
+      "author": "rylandgold",
+      "created_utc": 1571156858,
+      "full_link": "https://www.reddit.com/r/javascript/comments/diaboz/how_reshuffle_solves_common_fullstackjs_problems/",
+      "score": 86,
+      "title": "How Reshuffle Solves Common FullstackJS problems"
+    },
+    {
+      "author": "michal-szorad",
+      "created_utc": 1555349898,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bdiwu0/creating_type_safe_type_guards_in_typescript/",
+      "score": 85,
+      "title": "Creating type safe Type Guards in TypeScript"
+    },
+    {
+      "author": "PMilos",
+      "created_utc": 1571904176,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dmd7z2/7_quick_javascript_pop_quizzes_with_explanations/",
+      "score": 85,
+      "title": "7 Quick JavaScript Pop Quizzes With Explanations"
+    },
+    {
+      "author": "brajevicm",
+      "created_utc": 1573079029,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dsnqd5/i_made_this_nextjs_library_that_completely/",
+      "score": 85,
+      "title": "I made this Next.js library that completely enhances routing. Any feedback is appreciated."
+    },
+    {
+      "author": "Scr34mZ",
+      "created_utc": 1572212682,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dnzji6/react_hooks_in_service_to_forms_reacthookform/",
+      "score": 85,
+      "title": "React hooks in service to forms (react-hook-form)"
+    },
+    {
+      "author": "AutoModerator",
+      "created_utc": 1568217860,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d2sgi8/wtf_wednesday_september_11_2019/",
+      "score": 85,
+      "title": "WTF Wednesday (September 11, 2019)"
+    },
+    {
+      "author": "atum47",
+      "created_utc": 1561698544,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c6g2ot/a_javascript_native_paint_and_draw_app/",
+      "score": 84,
+      "title": "A JavaScript native paint and draw app."
+    },
+    {
+      "author": "PMilos",
+      "created_utc": 1570005785,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dc7gzv/8_new_es10_es2019_features_by_example/",
+      "score": 84,
+      "title": "8 New ES10 (ES2019) Features by Example"
+    },
+    {
+      "author": "Dotnaught",
+      "created_utc": 1560517278,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c0jtp2/settlementjs_not_found_javascript_package_biz_npm/",
+      "score": 83,
+      "title": "settlement.js not found: JavaScript package biz NPM scraps talks, fights union-busting claims"
+    },
+    {
+      "author": "juaniman99",
+      "created_utc": 1566211849,
+      "full_link": "https://www.reddit.com/r/javascript/comments/csffg9/list_and_delete_old_and_heavy_node_modules_with/",
+      "score": 83,
+      "title": "List and delete old and heavy node_modules with style. free up space!"
+    },
+    {
+      "author": "pmz",
+      "created_utc": 1564174019,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ci89w6/javascript_proxy_with_storage/",
+      "score": 82,
+      "title": "JavaScript Proxy with Storage"
+    },
+    {
+      "author": "IanAbsentia",
+      "created_utc": 1558937818,
+      "full_link": "https://www.reddit.com/r/javascript/comments/btij8m/are_redux_and_mobx_still_worth_learning_for_new/",
+      "score": 82,
+      "title": "Are Redux and MobX still worth learning for new React projects?"
+    },
+    {
+      "author": "Rejolt",
+      "created_utc": 1566083029,
+      "full_link": "https://www.reddit.com/r/javascript/comments/crtde3/created_a_discord_clone_as_my_first_react_project/",
+      "score": 82,
+      "title": "Created a Discord Clone as my first React Project"
+    },
+    {
+      "author": "MaoStevemao",
+      "created_utc": 1571314117,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dj5gqo/askjs_asking_backend_node_developer_css/",
+      "score": 82,
+      "title": "[AskJS] Asking backend node developer css specificity in interview?"
+    },
+    {
+      "author": "tyler-mcginnis",
+      "created_utc": 1564423209,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cjeur4/why_react_hooks/",
+      "score": 81,
+      "title": "Why React Hooks?"
+    },
+    {
+      "author": "dannymoerkerke",
+      "created_utc": 1569488481,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d9h0g0/what_you_need_to_know_about_asynchronous/",
+      "score": 81,
+      "title": "What you need to know about asynchronous programming in JavaScript"
+    },
+    {
+      "author": "GarryHunter",
+      "created_utc": 1555607800,
+      "full_link": "https://www.reddit.com/r/javascript/comments/beo5ji/react_visualization_libraries_in_2019/",
+      "score": 81,
+      "title": "React Visualization Libraries in 2019"
+    },
+    {
+      "author": "enmanuelduran",
+      "created_utc": 1555938622,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bg1xl9/avoid_recomputing_heavy_tasks_by_leveraging/",
+      "score": 81,
+      "title": "Avoid recomputing heavy tasks by leveraging memoization in javascript"
+    },
+    {
+      "author": "TheWrongSudoku",
+      "created_utc": 1557232261,
+      "full_link": "https://www.reddit.com/r/javascript/comments/blq4ky/question_for_freelancers_what_are_the_jobs_you/",
+      "score": 81,
+      "title": "Question for Freelancers - What are the jobs you like the most and the ones that you try to avoid and why?"
+    },
+    {
+      "author": "themoofinman",
+      "created_utc": 1566548673,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cuayoa/are_we_really_ok_with_starting_to_put_ads_in_a/",
+      "score": 81,
+      "title": "Are we really ok with starting to put ads in a users terminal?"
+    },
+    {
+      "author": "micheleriva",
+      "created_utc": 1569453713,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d9b8dv/lets_write_a_brainfuck_compiler/",
+      "score": 81,
+      "title": "Let's Write a Brainfuck Compiler"
+    },
+    {
+      "author": "abhijithvijayan",
+      "created_utc": 1572009975,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dmxfjf/webextension_starter_build_crossbrowser_extension/",
+      "score": 80,
+      "title": "Web-extension starter | Build cross-browser extension with ease using this template"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1558635533,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bs6d23/materialui_v4_is_out/",
+      "score": 79,
+      "title": "Material-UI v4 is out"
+    },
+    {
+      "author": "hotbuttbiscuit",
+      "created_utc": 1566003470,
+      "full_link": "https://www.reddit.com/r/javascript/comments/crfau8/exploring_the_twosum_interview_question_in/",
+      "score": 79,
+      "title": "Exploring the Two-Sum Interview Question in JavaScript"
+    },
+    {
+      "author": "valtism",
+      "created_utc": 1560924608,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c2dequ/understanding_the_this_keyword_call_apply_and/",
+      "score": 78,
+      "title": "Understanding the \"this\" keyword, call, apply, and bind in JavaScript"
+    },
+    {
+      "author": "ab-azure",
+      "created_utc": 1565261091,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cnjzgs/metaprogramming_in_javascript_with_jscodeshift/",
+      "score": 78,
+      "title": "Metaprogramming in JavaScript with jscodeshift"
+    },
+    {
+      "author": "snapwich",
+      "created_utc": 1559920612,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bxvst3/a_new_proposal_for_const_value_types_immutable/",
+      "score": 77,
+      "title": "A new proposal for const value types (immutable types)"
+    },
+    {
+      "author": "AutoModerator",
+      "created_utc": 1569427459,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d95d33/wtf_wednesday_september_25_2019/",
+      "score": 77,
+      "title": "WTF Wednesday (September 25, 2019)"
+    },
+    {
+      "author": "shinjirarehen",
+      "created_utc": 1573082693,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dsokir/moving_beyond_postinstall_messages_npm_adds/",
+      "score": 77,
+      "title": "Moving beyond post-install messages: NPM adds support for package funding info"
+    },
+    {
+      "author": "throwies11",
+      "created_utc": 1557271106,
+      "full_link": "https://www.reddit.com/r/javascript/comments/blxs4o/im_in_the_middle_of_a_personal_project_and/",
+      "score": 76,
+      "title": "I'm in the middle of a personal project and interested in unit testing it- no prior testing experience. What are some good guides/practices to unit testing?"
+    },
+    {
+      "author": "GiRLaZo",
+      "created_utc": 1571739911,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dlfxwz/using_ai_to_automate_instagram_accounts/",
+      "score": 76,
+      "title": "Using AI to automate instagram accounts"
+    },
+    {
+      "author": "tueieo",
+      "created_utc": 1556331109,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bhufg6/help_wanted_with_markeroo_a_simple_doc_writer/",
+      "score": 75,
+      "title": "Help wanted with Markeroo - A simple doc writer using Markdown."
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1558738218,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bsnhao/pixijs_the_html5_creation_engine_create_beautiful/",
+      "score": 75,
+      "title": "pixi.js - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer"
+    },
+    {
+      "author": "puppet_pals",
+      "created_utc": 1563128389,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cd69fs/decouple_your_javascript_using_event_driven/",
+      "score": 74,
+      "title": "Decouple Your Javascript Using Event Driven Programming Tiny-Pubsub"
+    },
+    {
+      "author": "Parasomnopolis",
+      "created_utc": 1586660903,
+      "full_link": "https://www.reddit.com/r/javascript/comments/fzowq2/hegel_an_advanced_static_type_checker_for/",
+      "score": 74,
+      "title": "Hegel: An advanced static type checker for javascript"
+    },
+    {
+      "author": "foysalit",
+      "created_utc": 1570152751,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dd0kg6/open_sourcing_fullstack_mobile_app_built_on_react/",
+      "score": 74,
+      "title": "Open sourcing fullstack mobile app built on react native and meteor"
+    },
+    {
+      "author": "Svelte-Status",
+      "created_utc": 1572167398,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dnqytu/the_svelte_handbook_a_common_login_form_in_svelte/",
+      "score": 74,
+      "title": "The Svelte handbook, a common log-in form in Svelte, Svelte Commerce &amp; more (Svelte weekly #11)"
+    },
+    {
+      "author": "jsloverr",
+      "created_utc": 1558172690,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bq22yo/43_most_popular_github_js_repositories_in_may_2019/",
+      "score": 74,
+      "title": "43 most popular GitHub JS repositories in May 2019"
+    },
+    {
+      "author": "kaithotz",
+      "created_utc": 1557080203,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bl118i/update_reactformikui_v3_released_improved_styling/",
+      "score": 73,
+      "title": "[UPDATE] React-Formik-Ui v3 released. Improved styling, Dropzone, and PhoneInput components"
+    },
+    {
+      "author": "enmanuelduran",
+      "created_utc": 1563193952,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cdgvs3/efficient_behavioral_tracking_in_javascript/",
+      "score": 73,
+      "title": "Efficient behavioral tracking in javascript"
+    },
+    {
+      "author": "yonatannn",
+      "created_utc": 1565609288,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cpb3bk/44_javascript_testing_best_practices/",
+      "score": 72,
+      "title": "44+ JavaScript Testing Best Practices"
+    },
+    {
+      "author": "Elthum",
+      "created_utc": 1556094946,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bgs6ia/fullstack_solution_for_fast_pwa_development/",
+      "score": 72,
+      "title": "Full-stack solution for fast PWA development"
+    },
+    {
+      "author": "NThompson_",
+      "created_utc": 1567792244,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d0k16g/vue_pwa_building_a_progressive_web_app_w_nuxt/",
+      "score": 71,
+      "title": "Vue PWA: Building A Progressive Web App w/ Nuxt (demo + tutorial)"
+    },
+    {
+      "author": "sniok",
+      "created_utc": 1567362601,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cydlve/typescript_vs_reasonml_a_comparison/",
+      "score": 71,
+      "title": "TypeScript vs ReasonML \u2013 A Comparison"
+    },
+    {
+      "author": "kiarash-irandoust",
+      "created_utc": 1556699382,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bjer5u/phantom_props_unnecessary_renders_and_what_no_one/",
+      "score": 71,
+      "title": "Phantom props, unnecessary renders and what no one told me about memo()"
+    },
+    {
+      "author": "whowanna",
+      "created_utc": 1557993522,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bp9s5l/what_state_machines_are_and_why_we_use_them/",
+      "score": 70,
+      "title": "What State Machines Are and Why We Use Them"
+    },
+    {
+      "author": "LovelyLionLily",
+      "created_utc": 1561955398,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c7o41n/what_is_a_good_website_to_learn_web_development/",
+      "score": 70,
+      "title": "What is a good website to learn web development for free?"
+    },
+    {
+      "author": "Svelte-Status",
+      "created_utc": 1567868718,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d0x2r3/svelte_392_svelte_with_tailwind_and_storybook/",
+      "score": 70,
+      "title": "Svelte 3.9.2, Svelte with Tailwind and Storybook, trade-offs of reactivity &amp; more (Svelte weekly #6)"
+    },
+    {
+      "author": "luckyde",
+      "created_utc": 1564062339,
+      "full_link": "https://www.reddit.com/r/javascript/comments/chnuql/made_a_homebrewed_13kb_rendering_engine_in_canvas/",
+      "score": 70,
+      "title": "Made a homebrewed 13kb rendering engine in canvas"
+    },
+    {
+      "author": "volimsir",
+      "created_utc": 1569197946,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d7yvpy/you_might_not_need_a_framework/",
+      "score": 70,
+      "title": "You might not need a framework"
+    },
+    {
+      "author": "ConfidentMushroom",
+      "created_utc": 1555972771,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bg8gzm/create_react_app_3_has_been_released/",
+      "score": 70,
+      "title": "Create React App 3 has been released"
+    },
+    {
+      "author": "wawhal",
+      "created_utc": 1564740463,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cl25f9/managing_optimistic_ui_updates_and_clobbering/",
+      "score": 69,
+      "title": "Managing optimistic UI updates and clobbering"
+    },
+    {
+      "author": "brodega",
+      "created_utc": 1572384796,
+      "full_link": "https://www.reddit.com/r/javascript/comments/downgn/askjs_event_loop_browser_vs_node/",
+      "score": 69,
+      "title": "[AskJS] Event Loop: Browser vs Node"
+    },
+    {
+      "author": "ga-vu",
+      "created_utc": 1557181791,
+      "full_link": "https://www.reddit.com/r/javascript/comments/blinwc/microsoft_launches_react_native_for_windows/",
+      "score": 69,
+      "title": "Microsoft launches React Native for Windows"
+    },
+    {
+      "author": "--marcel--",
+      "created_utc": 1571385682,
+      "full_link": "https://www.reddit.com/r/javascript/comments/djkanh/using_javascript_to_extract_nutrition_facts_from/",
+      "score": 69,
+      "title": "Using JavaScript to extract nutrition facts from recipes"
+    },
+    {
+      "author": "Freako_Sarcasio",
+      "created_utc": 1559024337,
+      "full_link": "https://www.reddit.com/r/javascript/comments/btwjvb/fundamental_object_design_patterns_in_javascript/",
+      "score": 68,
+      "title": "Fundamental Object Design Patterns in JavaScript"
+    },
+    {
+      "author": "annualspecification",
+      "created_utc": 1570366437,
+      "full_link": "https://www.reddit.com/r/javascript/comments/de2uqg/sicp_in_javascript/",
+      "score": 68,
+      "title": "SICP In JavaScript!"
+    },
+    {
+      "author": "ankur-anand",
+      "created_utc": 1560128315,
+      "full_link": "https://www.reddit.com/r/javascript/comments/byricp/building_a_simple_single_sign_onsso_solution_from/",
+      "score": 68,
+      "title": "Building A Simple Single Sign On(SSO) Solution From Scratch In Node.js"
+    },
+    {
+      "author": "PrintfReddit",
+      "created_utc": 1565288848,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cnpsyp/askjs_how_important_is_to_have_a_portfolio_if_i/",
+      "score": 68,
+      "title": "[AskJS] How important is to have a portfolio if I have work experience?"
+    },
+    {
+      "author": "meddit_app",
+      "created_utc": 1578033276,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ejbl62/how_my_painstakingly_made_open_source/",
+      "score": 68,
+      "title": "How My Painstakingly Made Open Source YouTube-Alternative Became Top Trending On Github"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1586959873,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g1sn73/pixelboxjs_create_2d_games_in_javascript/",
+      "score": 68,
+      "title": "Pixelbox.js - Create 2D games in JavaScript"
+    },
+    {
+      "author": "kefranabg",
+      "created_utc": 1557768169,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bo6dyo/publish_a_pwa_to_play_store/",
+      "score": 67,
+      "title": "Publish a PWA to Play Store"
+    },
+    {
+      "author": "kbrshh",
+      "created_utc": 1565382532,
+      "full_link": "https://www.reddit.com/r/javascript/comments/co81r5/1kb_purely_functional_web_application_library/",
+      "score": 67,
+      "title": "1kb purely functional web application library"
+    },
+    {
+      "author": "jekapats",
+      "created_utc": 1571569565,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dki8td/fuzz_testing_for_javascriptnodejs/",
+      "score": 67,
+      "title": "Fuzz Testing For Javascript/NodeJS"
+    },
+    {
+      "author": "eindbaas",
+      "created_utc": 1571393573,
+      "full_link": "https://www.reddit.com/r/javascript/comments/djled6/a_different_kind_of_raytracer/",
+      "score": 67,
+      "title": "A different kind of raytracer"
+    },
+    {
+      "author": "dennismphil",
+      "created_utc": 1560350853,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bzs4ga/coffeescripts_most_loved_feature_soon_in/",
+      "score": 66,
+      "title": "CoffeeScript\u2019s most loved feature soon in JavaScript"
+    },
+    {
+      "author": "happensonitsown",
+      "created_utc": 1561186895,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c3mks3/best_resources_to_learn_javascript/",
+      "score": 66,
+      "title": "Best resources to learn JavaScript??"
+    },
+    {
+      "author": "OogieFrenchieBoogie",
+      "created_utc": 1570121381,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dctkk7/tiny_acquires_meteor_techcrunch/",
+      "score": 66,
+      "title": "Tiny acquires Meteor \u2013 TechCrunch"
+    },
+    {
+      "author": "fagnerbrack",
+      "created_utc": 1578136189,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ejvfqg/december_2018_an_update_on_cdnjs_from_cloudflare/",
+      "score": 66,
+      "title": "(December 2018) An Update on CDNJS from Cloudflare"
+    },
+    {
+      "author": "victorbjelkholm",
+      "created_utc": 1556127023,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bgxgf2/a_javascript_package_registry_funded_developed/",
+      "score": 65,
+      "title": "A JavaScript Package Registry funded, developed and maintained by the community, for the community"
+    },
+    {
+      "author": "jgbbrd",
+      "created_utc": 1565889497,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cqsvcj/fun_little_javascript_coding_puzzle/",
+      "score": 65,
+      "title": "Fun little JavaScript coding puzzle"
+    },
+    {
+      "author": "vishwasnavadak",
+      "created_utc": 1563347793,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ce9i4u/web_scraping_with_cheerio_and_nightmarejs/",
+      "score": 65,
+      "title": "Web scraping with cheerio and nightmarejs"
+    },
+    {
+      "author": "saif_sadiq",
+      "created_utc": 1586935878,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g1naew/although_json_web_tokens_have_become_incredibly/",
+      "score": 65,
+      "title": "Although JSON Web Tokens have become incredibly popular, its use for authenticating users sessions is controversial. Here's an attempt to demonstrate the pros and cons of using JWT for this context."
+    },
+    {
+      "author": "_vargs_",
+      "created_utc": 1558258604,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bqf147/virtual_dom_is_pure_overhead/",
+      "score": 64,
+      "title": "Virtual DOM is pure overhead"
+    },
+    {
+      "author": "rockiger",
+      "created_utc": 1567097605,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cx3jxd/google_moves_closer_to_letting_chrome_web_apps/",
+      "score": 64,
+      "title": "Google moves closer to letting Chrome web apps edit your files despite warning it could be 'abused in terrible ways'"
+    },
+    {
+      "author": "mauricedev",
+      "created_utc": 1572092471,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dnd5uj/showoff_saturday_my_first_js_library_focus_overlay/",
+      "score": 64,
+      "title": "[Showoff Saturday] My first JS Library: Focus Overlay"
+    },
+    {
+      "author": "qbbftw",
+      "created_utc": 1564079881,
+      "full_link": "https://www.reddit.com/r/javascript/comments/chro8y/optional_chaining_is_now_at_stage_3/",
+      "score": 64,
+      "title": "Optional Chaining is now at Stage 3"
+    },
+    {
+      "author": "unadlib",
+      "created_utc": 1561226132,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c3sq3b/how_to_make_redux_more_concise/",
+      "score": 64,
+      "title": "How to make Redux more concise"
+    },
+    {
+      "author": "ashubham",
+      "created_utc": 1571880866,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dm9d5c/w3c_compliant_keyboard_events_w_typescript/",
+      "score": 63,
+      "title": "W3C compliant Keyboard events w/ typescript"
+    },
+    {
+      "author": "kiarash-irandoust",
+      "created_utc": 1558696963,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bsfpc7/testing_with_jest_and_vuejs_pocket_guide/",
+      "score": 63,
+      "title": "Testing with Jest and Vue.js: Pocket guide"
+    },
+    {
+      "author": "Aswole",
+      "created_utc": 1560027515,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bychud/heres_a_boilerplate_with_scripts_to_set_up_a/",
+      "score": 62,
+      "title": "Here's a boilerplate with scripts to set up a React app with WebAssembly (Rust) ready to use"
+    },
+    {
+      "author": "OriginalSimonwep",
+      "created_utc": 1560449336,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c0982f/update_after_one_year_pickr_v100beta_is_finally/",
+      "score": 62,
+      "title": "[Update] After one year, pickr v1.0.0-beta is finally available :)"
+    },
+    {
+      "author": "gajus0",
+      "created_utc": 1565813427,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cqf57m/logging_in_browser_using_a_structured_logger_in/",
+      "score": 62,
+      "title": "Logging in Browser: Using a structured logger in your frontend project"
+    },
+    {
+      "author": "BradleyZ17",
+      "created_utc": 1561194283,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c3nil7/is_it_weird_to_use_syntax_for_all_comments/",
+      "score": 62,
+      "title": "Is it weird to use /* */ syntax for all comments?"
+    },
+    {
+      "author": "forcefx",
+      "created_utc": 1563722927,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cg06zi/new_to_js_or_looking_for_a_good_resource_to_learn/",
+      "score": 61,
+      "title": "New to JS or looking for a good resource to learn more? I\u2019ve made a huge JS write-up on my GitHub going through everything from naming conventions to Promises!"
+    },
+    {
+      "author": "carloslfu",
+      "created_utc": 1556666038,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bja4wr/application_state_management_with_react_by_kent_c/",
+      "score": 61,
+      "title": "Application State Management with React by Kent C. Dodds"
+    },
+    {
+      "author": "DanielRosenwasser",
+      "created_utc": 1559150330,
+      "full_link": "https://www.reddit.com/r/javascript/comments/buhfxg/announcing_typescript_35/",
+      "score": 61,
+      "title": "Announcing TypeScript 3.5"
+    },
+    {
+      "author": "ConfidentMushroom",
+      "created_utc": 1564004080,
+      "full_link": "https://www.reddit.com/r/javascript/comments/chee5i/tc39_advances_the_nullishcoalescing_operator_to/",
+      "score": 61,
+      "title": "TC39 advances the ?? nullish-coalescing operator to stage 3"
+    },
+    {
+      "author": "Pawtang",
+      "created_utc": 1572833970,
+      "full_link": "https://www.reddit.com/r/javascript/comments/drayft/a_friend_and_i_made_this_browser_dungeon_crawler/",
+      "score": 61,
+      "title": "A friend and I made this browser dungeon crawler using vanilla HTML, CSS, and JavaScript. My biggest project so far."
+    },
+    {
+      "author": "ronilan",
+      "created_utc": 1556932697,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bkfxwg/a_mazing_thing_an_a_pathfinding_algorithm/",
+      "score": 61,
+      "title": "A* Mazing thing - an A* pathfinding algorithm encapsulated in an ES6 Class with interactive rendered demos (Vanilla, React, Blocklike)"
+    },
+    {
+      "author": "franciscopresencia",
+      "created_utc": 1557839186,
+      "full_link": "https://www.reddit.com/r/javascript/comments/boiou0/olajs_a_library_for_smooth_realtime_number/",
+      "score": 61,
+      "title": "Ola.js, a library for smooth realtime number interpolation"
+    },
+    {
+      "author": "ClutchHunter",
+      "created_utc": 1557520662,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bn3gzb/github_gets_a_package_registry/",
+      "score": 60,
+      "title": "GitHub gets a package registry"
+    },
+    {
+      "author": "leofab865",
+      "created_utc": 1558916502,
+      "full_link": "https://www.reddit.com/r/javascript/comments/btfbqk/secrets_of_javascript_a_tale_of_react_performance/",
+      "score": 60,
+      "title": "Secrets of JavaScript: a tale of React, performance optimization and multi-threading"
+    },
+    {
+      "author": "quintanilharafael",
+      "created_utc": 1560861032,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c21nyz/the_complete_guide_to_react_refs/",
+      "score": 60,
+      "title": "The Complete Guide to React Refs"
+    },
+    {
+      "author": "atum47",
+      "created_utc": 1556625101,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bj2dou/2d_procedural_generated_map_for_a_rpg_game_im/",
+      "score": 60,
+      "title": "2D procedural generated map for a RPG game I'm working on. The game will run on browser, so I wrote the map generator in JavaScript. New maps can be generated on the spot or saved and imported."
+    },
+    {
+      "author": "mardix",
+      "created_utc": 1557475066,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bmvjjn/relifthtml_a_very_small_3kb_view_library_that_now/",
+      "score": 60,
+      "title": "reLift-HTML: A very small (3kb) view library that now allows you to create Web Component, Custom Element, and helps you make any HTML page reactive without the bloat of big frameworks."
+    },
+    {
+      "author": "realbhamshu",
+      "created_utc": 1559733736,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bx1fns/p5js_is_a_javascript_library_that_aims_to_make/",
+      "score": 60,
+      "title": "P5JS is a javascript library that aims to make coding accessible for artists, designers, educators, and beginners. Play a game made in p5js here."
+    },
+    {
+      "author": "rafaelcamargo",
+      "created_utc": 1562642886,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cavci6/the_easiest_way_of_creating_animations_to_show/",
+      "score": 60,
+      "title": "The easiest way of creating animations to show your code in action."
+    },
+    {
+      "author": "pimterry",
+      "created_utc": 1570801093,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dgfatz/600k_concurrent_websocket_connections_on_aws/",
+      "score": 60,
+      "title": "600k concurrent websocket connections on AWS using Node.js"
+    },
+    {
+      "author": "quintanilharafael",
+      "created_utc": 1570632539,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dfi32m/the_5_best_libs_for_accessible_react_applications/",
+      "score": 59,
+      "title": "The 5 Best Libs for Accessible React Applications"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1564601994,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ckdbb1/io808_a_fully_recreated_webbased_tr808_drum/",
+      "score": 58,
+      "title": "iO-808 - a fully recreated web-based TR-808 drum machine using React, Redux, and the Web Audio API"
+    },
+    {
+      "author": "kap89",
+      "created_utc": 1572118887,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dnion6/npmgraph_visualize_npm_module_dependencies/",
+      "score": 58,
+      "title": "NPMGraph - Visualize NPM Module Dependencies"
+    },
+    {
+      "author": "jfet97",
+      "created_utc": 1562349142,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c9iypw/oxjs_rethinking_reactivity_without_limits/",
+      "score": 58,
+      "title": "OxJS: Rethinking Reactivity without limits"
+    },
+    {
+      "author": "Wood4Sheep",
+      "created_utc": 1563117150,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cd42ue/reddittube_an_spa_i_made_for_watching_endless/",
+      "score": 58,
+      "title": "RedditTube \u2013 An SPA I made for watching endless Youtube videos from any subreddit. Uses Vanilla JS, hosted on Netlify."
+    },
+    {
+      "author": "ctrlaltdelmarva",
+      "created_utc": 1564267321,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cio1rd/object_assignment_vs_primitive_assignment_in/",
+      "score": 58,
+      "title": "Object Assignment vs. Primitive Assignment in JavaScript for Beginners"
+    },
+    {
+      "author": "killinghurts",
+      "created_utc": 1566125981,
+      "full_link": "https://www.reddit.com/r/javascript/comments/crzukm/github_introducing_patt_kickstart_your_full_stack/",
+      "score": 57,
+      "title": "GitHub - Introducing PATT: kickstart your full stack multiplatform TypeScript development."
+    },
+    {
+      "author": "RemiV2",
+      "created_utc": 1586822360,
+      "full_link": "https://www.reddit.com/r/javascript/comments/g0uqbb/5_tips_to_keep_a_clean_git_history/",
+      "score": 57,
+      "title": "5 tips to keep a clean Git history"
+    },
+    {
+      "author": "k4myk85",
+      "created_utc": 1558097391,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bpquwm/chegojs_universal_database_api_mysql_style_fluent/",
+      "score": 57,
+      "title": "ChegoJS - universal database API, MySQL style fluent interface"
+    },
+    {
+      "author": "jrsinclair",
+      "created_utc": 1572870008,
+      "full_link": "https://www.reddit.com/r/javascript/comments/drgudq/algebraic_structures_things_i_wish_someone_had/",
+      "score": 57,
+      "title": "Algebraic Structures: Things I wish someone had explained about functional programming"
+    },
+    {
+      "author": "komninosc",
+      "created_utc": 1567154824,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cxe7f2/pascal_interpreter_written_in_typescript_iso/",
+      "score": 56,
+      "title": "Pascal Interpreter written in Typescript (ISO 7185:1990)"
+    },
+    {
+      "author": "snapwich",
+      "created_utc": 1560181702,
+      "full_link": "https://www.reddit.com/r/javascript/comments/byzfql/the_reduce_spread_antipattern/",
+      "score": 56,
+      "title": "The reduce ({...spread}) anti-pattern"
+    },
+    {
+      "author": "seanmorris",
+      "created_utc": 1571658652,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dkzdvk/es6_tricks_quick_enum_bitwise_class_constants/",
+      "score": 55,
+      "title": "ES6 Tricks: Quick Enum &amp; Bitwise Class Constants"
+    },
+    {
+      "author": "shalotelli",
+      "created_utc": 1569404991,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d910xd/askjs_what_is_your_opinion_on_web_components/",
+      "score": 55,
+      "title": "[AskJS] What is your opinion on web components?"
+    },
+    {
+      "author": "sinha_shiven",
+      "created_utc": 1560053528,
+      "full_link": "https://www.reddit.com/r/javascript/comments/byggfc/use_google_sheets_as_your_nohassle_database/",
+      "score": 55,
+      "title": "Use Google Sheets as your no-hassle database"
+    },
+    {
+      "author": "pastudan",
+      "created_utc": 1564040582,
+      "full_link": "https://www.reddit.com/r/javascript/comments/chkmfe/create_node_app_metamodules_a_way_to_spin_up_an/",
+      "score": 55,
+      "title": "Create Node App &amp; MetaModules. A way to spin up an Node.js app with services like Redis, Postgres, MongoDB, etc"
+    },
+    {
+      "author": "magenta_placenta",
+      "created_utc": 1561556372,
+      "full_link": "https://www.reddit.com/r/javascript/comments/c5pxv9/the_cost_of_javascript_in_2019/",
+      "score": 55,
+      "title": "The cost of JavaScript in 2019"
+    },
+    {
+      "author": "DarceHole22",
+      "created_utc": 1572760763,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dqwl00/i_build_my_first_chrome_extension_feedback_wanted/",
+      "score": 54,
+      "title": "I build my first Chrome Extension, feedback wanted!"
+    },
+    {
+      "author": "Droid2Win",
+      "created_utc": 1572994735,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ds74al/how_to_fully_optimize_webpack_4_tree_shaking/",
+      "score": 54,
+      "title": "How to Fully Optimize Webpack 4 Tree Shaking"
+    },
+    {
+      "author": "ElijahTheGrand",
+      "created_utc": 1571926888,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dmh3d9/react_dynamic_dashboard_guide/",
+      "score": 53,
+      "title": "React dynamic dashboard guide"
+    },
+    {
+      "author": "dylburger-pipedream",
+      "created_utc": 1565814013,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cqf9xx/scrape_a_site_with_node_and_cheerio_in_5_minutes/",
+      "score": 53,
+      "title": "Scrape a site with Node and Cheerio in 5 minutes"
+    },
+    {
+      "author": "FavoriteColorFlavor",
+      "created_utc": 1558496397,
+      "full_link": "https://www.reddit.com/r/javascript/comments/brjxab/nan_can_be_used_as_an_array_index/",
+      "score": 53,
+      "title": "NaN can be used as an array index"
+    },
+    {
+      "author": "ctrlaltdelmarva",
+      "created_utc": 1564706831,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ckwzg3/firstclass_functions_in_javascript/",
+      "score": 53,
+      "title": "First-Class Functions in JavaScript"
+    },
+    {
+      "author": "j_orshman",
+      "created_utc": 1555509763,
+      "full_link": "https://www.reddit.com/r/javascript/comments/be861y/animating_urls_with_javascript_and_emojis/",
+      "score": 52,
+      "title": "Animating URLs with Javascript and Emojis"
+    },
+    {
+      "author": "CharlesPolley",
+      "created_utc": 1556245369,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bhh3cu/how_to_solve_the_sherlock_and_anagrams_coding/",
+      "score": 52,
+      "title": "How to solve the Sherlock and Anagrams coding challenge in JavaScript"
+    },
+    {
+      "author": "_Radvila",
+      "created_utc": 1578135275,
+      "full_link": "https://www.reddit.com/r/javascript/comments/ejvavn/statistics_of_the_javascript_front_end_frameworks/",
+      "score": 52,
+      "title": "Statistics of the JavaScript front end frameworks in 2019"
+    },
+    {
+      "author": "r-wabbit",
+      "created_utc": 1558081708,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bpommd/svelte_3_rethinking_reactivity/",
+      "score": 52,
+      "title": "Svelte 3: Rethinking reactivity"
+    },
+    {
+      "author": "FechinLi",
+      "created_utc": 1556100781,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bgsu6m/i_developed_an_online_tool_that_makes_it_easier/",
+      "score": 51,
+      "title": "I developed an online tool that makes it easier to convert a table into any format."
+    },
+    {
+      "author": "rob_mat",
+      "created_utc": 1557316965,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bm4ehi/http_headers_for_the_responsible_developer/",
+      "score": 51,
+      "title": "HTTP headers for the responsible developer"
+    },
+    {
+      "author": "scopsy",
+      "created_utc": 1570803136,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dgfr4t/webpack_released_v500_beta/",
+      "score": 51,
+      "title": "webpack released v5.0.0 beta \ud83c\udf89"
+    },
+    {
+      "author": "Wood-Neck",
+      "created_utc": 1568024277,
+      "full_link": "https://www.reddit.com/r/javascript/comments/d1oz0m/css3_3d_library_csscamera/",
+      "score": 51,
+      "title": "CSS3 3D library: css-camera"
+    },
+    {
+      "author": "dmielewczyk",
+      "created_utc": 1571405036,
+      "full_link": "https://www.reddit.com/r/javascript/comments/djngjx/next_gen_javascript_and_typescript_runtime_deno/",
+      "score": 51,
+      "title": "Next gen JavaScript and TypeScript runtime - Deno"
+    },
+    {
+      "author": "Pixel_Err0r",
+      "created_utc": 1556390962,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bi28gs/how_could_i_implement_this_drag_slider_with/",
+      "score": 51,
+      "title": "How Could I Implement This Drag Slider with Vanilla JS?"
+    },
+    {
+      "author": "zyxan",
+      "created_utc": 1557140942,
+      "full_link": "https://www.reddit.com/r/javascript/comments/blarne/currying_in_javascript/",
+      "score": 50,
+      "title": "Currying in JavaScript"
+    },
+    {
+      "author": "joeywatts",
+      "created_utc": 1557156016,
+      "full_link": "https://www.reddit.com/r/javascript/comments/bldgkv/from_dead_code_to_company_the_fullcalendar_js_lib/",
+      "score": 50,
+      "title": "From Dead Code to Company: The FullCalendar JS Lib Turns 10"
+    },
+    {
+      "author": "HydroPhobeFireMan",
+      "created_utc": 1572605834,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dq2mro/qwc_quick_webcomponents_create_reusable/",
+      "score": 50,
+      "title": "QWC - Quick WebComponents | Create reusable WebComponents without writing any JavaScript clases."
+    },
+    {
+      "author": "speckz",
+      "created_utc": 1566907251,
+      "full_link": "https://www.reddit.com/r/javascript/comments/cw3fwg/javascript_to_know_for_react/",
+      "score": 50,
+      "title": "JavaScript to Know for React"
+    },
+    {
+      "author": "oguzeroglu",
+      "created_utc": 1572195648,
+      "full_link": "https://www.reddit.com/r/javascript/comments/dnw7yr/roygbiv_engine_electro_shock_demo_mobile/",
+      "score": 50,
+      "title": "ROYGBIV Engine - Electro shock demo (Mobile compatible)"
+    }
+  ]
+}

@@ -11,6 +11,7 @@ const Box = ({
 
   return (
     <StyledBox
+      data-testid={`box-${index.day}-${index.hour}`}
       focused={selected}
       onClick={handleClick}
       numTotalPosts={posts.length}
@@ -22,7 +23,7 @@ const Box = ({
 
 Box.propTypes = {
   posts: PropTypes.arrayOf(PropTypes.object).isRequired,
-  index: PropTypes.string.isRequired,
+  index: PropTypes.objectOf(PropTypes.number).isRequired,
   selected: PropTypes.bool.isRequired,
   setSelected: PropTypes.func.isRequired,
 };

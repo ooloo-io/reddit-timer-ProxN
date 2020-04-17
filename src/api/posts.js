@@ -11,7 +11,7 @@ export default async (subreddit) => {
     const URL = `${config.BASE_URL}search/submission/${query}`;
     const res = await axios.get(URL);
 
-    if (res.data.data.length > 0) {
+    if (res.data.data && res.data.data.length > 0) {
       return convertData(res.data.data);
     }
     throw new Error(`No subreddit found with the name: ${subreddit}`);

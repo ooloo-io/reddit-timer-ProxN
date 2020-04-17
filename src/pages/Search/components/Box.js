@@ -11,7 +11,7 @@ const Box = ({
 
   return (
     <StyledBox
-      data-testid={`${index.day}-${index.hour}`}
+      data-testid={`box-${index.day}-${index.hour}`}
       focused={selected}
       onClick={handleClick}
       numTotalPosts={posts.length}

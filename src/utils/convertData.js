@@ -1,7 +1,4 @@
 import dayjs from 'dayjs';
-import isBetween from 'dayjs/plugin/isBetween';
-
-dayjs.extend(isBetween);
 
 const getHour = (date) => parseInt(date.format('H'), 10);
 
